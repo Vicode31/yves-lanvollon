@@ -3,7 +3,7 @@ import type { ComponentType } from "react";
 import { TbCandle } from "react-icons/tb";
 import type { ServiceTheme } from "./testimonials";
 
-export const SITE_URL = "https://www.hypnose-saintbrieuc.fr";
+export const SITE_URL = "https://www.hypnotherapeute-lanvollon-plouha.fr";
 
 export type RelatedArticle = {
   title: string;
@@ -46,23 +46,23 @@ export const soins: Soin[] = [
     icon: Brain,
     heroImage: "/blog/hypnose-stress.png",
     heroImageAlt:
-      "Hypnose pour gérer le stress et les émotions à Saint-Brieuc",
-    h1: "Hypnose pour gérer le stress, l'anxiété et les émotions à Saint-Brieuc",
+      "Hypnose pour gérer le stress et les émotions à Lanvollon",
+    h1: "Hypnose pour gérer le stress, l'anxiété et les émotions à Lanvollon",
     metaTitle:
-      "Hypnose stress & anxiété à Saint-Brieuc | Yves Deniau, hypnothérapeute",
+      "Hypnose stress & anxiété à Lanvollon | Yves Deniau, hypnothérapeute",
     metaDescription:
-      "Stress, anxiété, phobies, peurs : l'hypnothérapie aide à apaiser le système nerveux et à retrouver la sérénité. Cabinet d'Yves Deniau à Saint-Brieuc.",
+      "Stress, anxiété, phobies, peurs : l'hypnothérapie aide à apaiser le système nerveux et à retrouver la sérénité. Cabinet d'Yves Deniau à Lanvollon.",
     keywords: [
-      "hypnose stress Saint-Brieuc",
+      "hypnose stress Lanvollon",
       "hypnose anxiété",
       "gestion des émotions",
       "hypnose phobie",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
       "lâcher prise",
     ],
     intro: [
       "Le stress et l'anxiété ne sont pas une fatalité. Quand le mental tourne en boucle, que le corps reste en alerte et que les émotions débordent, l'hypnose offre une voie douce pour retrouver le calme — sans lutter, sans se forcer.",
-      "À Saint-Brieuc, j'accompagne des personnes qui veulent sortir d'un état de tension permanent, apaiser leurs peurs ou reprendre la main sur des émotions devenues envahissantes.",
+      "À Lanvollon, j'accompagne des personnes qui veulent sortir d'un état de tension permanent, apaiser leurs peurs ou reprendre la main sur des émotions devenues envahissantes.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -86,7 +86,7 @@ export const soins: Soin[] = [
         text: "Au fil des séances, vous réapprenez que vous pouvez vous calmer par vous-même. L'auto-hypnose, enseignée en consultation, devient un outil que vous utilisez seul, au moment où vous en avez besoin.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Nous commençons par comprendre ce qui se joue précisément : les déclencheurs, ce que vit le corps, les pensées qui reviennent. Ensuite, le travail hypnotique vise à réguler l'activation, à transformer la relation aux situations stressantes et à installer des ressources de calme durables.",
       "Chaque séance est personnalisée. L'objectif n'est pas de masquer le symptôme, mais de modifier ce qui l'entretient pour que l'apaisement tienne dans la durée.",
@@ -110,12 +110,12 @@ export const soins: Soin[] = [
       {
         title:
           "Hypnose et stress : une réponse naturelle validée par la science",
-        href: "/blog/hypnose-stress-saint-brieuc",
+        href: "/blog/hypnose-stress-lanvollon",
       },
       {
         title:
           "Crises d'angoisse : pourquoi l'hypnose agit là où la volonté échoue",
-        href: "/blog/crise-angoisse-hypnose-saint-brieuc",
+        href: "/blog/crise-angoisse-hypnose-lanvollon",
       },
     ],
   },
@@ -128,22 +128,22 @@ export const soins: Soin[] = [
     icon: Heart,
     heroImage: "/blog/seance-hypnose.png",
     heroImageAlt:
-      "Hypnose pour retrouver confiance en soi à Saint-Brieuc",
-    h1: "Hypnose pour la confiance en soi et l'estime de soi à Saint-Brieuc",
+      "Hypnose pour retrouver confiance en soi à Lanvollon",
+    h1: "Hypnose pour la confiance en soi et l'estime de soi à Lanvollon",
     metaTitle:
-      "Hypnose confiance en soi à Saint-Brieuc | Yves Deniau, hypnothérapeute",
+      "Hypnose confiance en soi à Lanvollon | Yves Deniau, hypnothérapeute",
     metaDescription:
-      "Manque de confiance, blocages, doute de soi : l'hypnothérapie aide à retrouver l'estime de soi et à se libérer de ses freins. Cabinet à Saint-Brieuc.",
+      "Manque de confiance, blocages, doute de soi : l'hypnothérapie aide à retrouver l'estime de soi et à se libérer de ses freins. Cabinet à Lanvollon.",
     keywords: [
-      "hypnose confiance en soi Saint-Brieuc",
+      "hypnose confiance en soi Lanvollon",
       "estime de soi",
       "hypnose blocage",
       "manque de confiance",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
     ],
     intro: [
       "Le manque de confiance en soi se loge partout : dans les relations, au travail, dans les choix que l'on n'ose pas faire. Il prend souvent racine dans des expériences anciennes qui ont laissé une trace.",
-      "À Saint-Brieuc, j'accompagne les personnes qui veulent se libérer de ce doute permanent et retrouver une relation apaisée avec elles-mêmes.",
+      "À Lanvollon, j'accompagne les personnes qui veulent se libérer de ce doute permanent et retrouver une relation apaisée avec elles-mêmes.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -167,7 +167,7 @@ export const soins: Soin[] = [
         text: "En séance, on installe des appuis intérieurs sur lesquels vous pouvez vous reposer : un sentiment de sécurité, de légitimité, de capacité à agir.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Nous identifions ensemble où le manque de confiance se manifeste et ce qui l'alimente. Le travail hypnotique vise ensuite à apaiser les racines du doute et à construire une estime de soi plus stable.",
       "L'objectif n'est pas de plaquer une assurance artificielle, mais de vous reconnecter à vos ressources réelles, pour avancer plus librement.",
@@ -190,11 +190,11 @@ export const soins: Soin[] = [
     related: [
       {
         title: "Qu'est-ce que l'hypnose ?",
-        href: "/blog/hypnose-definition-saint-brieuc",
+        href: "/blog/hypnose-definition-lanvollon",
       },
       {
         title: "Hypnose, conscience modifiée et libre arbitre",
-        href: "/blog/hypnose-volonte-saint-brieuc",
+        href: "/blog/hypnose-volonte-lanvollon",
       },
     ],
   },
@@ -207,23 +207,23 @@ export const soins: Soin[] = [
     icon: Timer,
     heroImage: "/blog/montfuji.png",
     heroImageAlt:
-      "Hypnose pour améliorer ses performances à Saint-Brieuc",
-    h1: "Hypnose pour améliorer ses performances à Saint-Brieuc",
+      "Hypnose pour améliorer ses performances à Lanvollon",
+    h1: "Hypnose pour améliorer ses performances à Lanvollon",
     metaTitle:
-      "Hypnose performance & préparation mentale à Saint-Brieuc | Yves Deniau",
+      "Hypnose performance & préparation mentale à Lanvollon | Yves Deniau",
     metaDescription:
-      "Sport, examens, prise de parole, objectifs professionnels : l'hypnose aide à dépasser les barrières mentales et à libérer votre potentiel. Saint-Brieuc.",
+      "Sport, examens, prise de parole, objectifs professionnels : l'hypnose aide à dépasser les barrières mentales et à libérer votre potentiel. Lanvollon.",
     keywords: [
-      "hypnose performance Saint-Brieuc",
+      "hypnose performance Lanvollon",
       "préparation mentale",
       "hypnose sport",
       "hypnose examen",
       "concentration",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
     ],
     intro: [
       "Parfois, ce qui nous sépare de nos objectifs n'est pas le talent ni le travail, mais une barrière mentale : le stress de la performance, le manque de concentration, la peur de l'échec, le trac.",
-      "À Saint-Brieuc, j'accompagne sportifs, étudiants et professionnels qui veulent lever ces freins pour donner le meilleur d'eux-mêmes au bon moment.",
+      "À Lanvollon, j'accompagne sportifs, étudiants et professionnels qui veulent lever ces freins pour donner le meilleur d'eux-mêmes au bon moment.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -247,7 +247,7 @@ export const soins: Soin[] = [
         text: "Derrière une contre-performance se cache souvent une croyance ou une peur. L'hypnose permet de la désamorcer pour libérer votre potentiel.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Nous précisons d'abord votre objectif et ce qui vous freine concrètement. Le travail hypnotique vise ensuite à transformer le rapport à la pression, à renforcer la concentration et à ancrer un état de confiance que vous pouvez retrouver le jour J.",
       "L'auto-hypnose enseignée en séance vous donne un outil pour vous préparer seul, avant une échéance importante.",
@@ -270,12 +270,12 @@ export const soins: Soin[] = [
     related: [
       {
         title: "Qu'est-ce que l'hypnose ?",
-        href: "/blog/hypnose-definition-saint-brieuc",
+        href: "/blog/hypnose-definition-lanvollon",
       },
       {
         title:
           "Hypnose et stress : une réponse naturelle validée par la science",
-        href: "/blog/hypnose-stress-saint-brieuc",
+        href: "/blog/hypnose-stress-lanvollon",
       },
     ],
   },
@@ -288,23 +288,23 @@ export const soins: Soin[] = [
     icon: Pill,
     heroImage: "/blog/hypnotherapeute-tabac.png",
     heroImageAlt:
-      "Hypnose pour se libérer des addictions à Saint-Brieuc",
-    h1: "Hypnose pour se libérer des addictions à Saint-Brieuc",
+      "Hypnose pour se libérer des addictions à Lanvollon",
+    h1: "Hypnose pour se libérer des addictions à Lanvollon",
     metaTitle:
-      "Hypnose addictions (tabac, alcool, jeux) à Saint-Brieuc | Yves Deniau",
+      "Hypnose addictions (tabac, alcool, jeux) à Lanvollon | Yves Deniau",
     metaDescription:
-      "Tabac, alcool, jeux, écrans, substances : l'hypnothérapie agit sur les mécanismes inconscients de la dépendance pour vous aider à vous libérer. Saint-Brieuc.",
+      "Tabac, alcool, jeux, écrans, substances : l'hypnothérapie agit sur les mécanismes inconscients de la dépendance pour vous aider à vous libérer. Lanvollon.",
     keywords: [
-      "hypnose addiction Saint-Brieuc",
+      "hypnose addiction Lanvollon",
       "hypnose tabac",
       "hypnose alcool",
       "hypnose arrêter de fumer",
       "dépendance",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
     ],
     intro: [
       "Une addiction n'est pas un simple manque de volonté. Elle est à la fois physique, psychologique et comportementale, entretenue par des automatismes inconscients. C'est précisément sur ces mécanismes que l'hypnose agit.",
-      "À Saint-Brieuc, j'accompagne les personnes qui veulent se libérer du tabac, de l'alcool, des jeux, des écrans ou d'autres dépendances.",
+      "À Lanvollon, j'accompagne les personnes qui veulent se libérer du tabac, de l'alcool, des jeux, des écrans ou d'autres dépendances.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -328,7 +328,7 @@ export const soins: Soin[] = [
         text: "L'hypnose reconnecte à vos raisons réelles d'arrêter et installe une dynamique de changement qui tient dans le temps.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Nous explorons d'abord votre dépendance : son histoire, ses déclencheurs, ce qu'elle apporte et ce qu'elle coûte. Le travail hypnotique vise ensuite à défaire les automatismes et à renforcer votre motivation, pour une libération durable.",
       "L'hypnose ne se substitue pas à un accompagnement médical en cas de dépendance sévère (notamment à l'alcool ou à certaines substances), où un sevrage doit être encadré médicalement.",
@@ -351,12 +351,12 @@ export const soins: Soin[] = [
     related: [
       {
         title: "L'hypnose pour arrêter de fumer",
-        href: "/blog/sevrage-tabac-saint-brieuc",
+        href: "/blog/sevrage-tabac-lanvollon",
       },
       {
         title:
           "Combien de séances d'hypnothérapie pour arrêter le tabac ?",
-        href: "/blog/hypnose-tabac-saint-brieuc",
+        href: "/blog/hypnose-tabac-lanvollon",
       },
     ],
   },
@@ -369,22 +369,22 @@ export const soins: Soin[] = [
     icon: TbCandle,
     heroImage: "/blog/deuil-amoureux.png",
     heroImageAlt:
-      "Hypnose pour surmonter un deuil ou une rupture à Saint-Brieuc",
-    h1: "Hypnose pour surmonter un deuil ou une rupture à Saint-Brieuc",
+      "Hypnose pour surmonter un deuil ou une rupture à Lanvollon",
+    h1: "Hypnose pour surmonter un deuil ou une rupture à Lanvollon",
     metaTitle:
-      "Hypnose deuil & rupture à Saint-Brieuc | Yves Deniau, hypnothérapeute",
+      "Hypnose deuil & rupture à Lanvollon | Yves Deniau, hypnothérapeute",
     metaDescription:
-      "Deuil d'un proche, rupture amoureuse, séparation : l'hypnothérapie accompagne le processus de deuil pour avancer et se reconstruire. Cabinet à Saint-Brieuc.",
+      "Deuil d'un proche, rupture amoureuse, séparation : l'hypnothérapie accompagne le processus de deuil pour avancer et se reconstruire. Cabinet à Lanvollon.",
     keywords: [
-      "hypnose deuil Saint-Brieuc",
+      "hypnose deuil Lanvollon",
       "hypnose rupture amoureuse",
       "surmonter une séparation",
       "deuil périnatal",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
     ],
     intro: [
       "Perdre un être cher ou traverser une rupture laisse une douleur qui semble parfois impossible à dépasser. Quand le temps ne suffit pas, que la peine reste figée ou que l'on n'arrive pas à « tourner la page », l'hypnose peut accompagner le processus de deuil.",
-      "À Saint-Brieuc, j'accompagne avec douceur les personnes confrontées à un deuil — d'un proche, périnatal — ou à une rupture amoureuse, amicale ou professionnelle.",
+      "À Lanvollon, j'accompagne avec douceur les personnes confrontées à un deuil — d'un proche, périnatal — ou à une rupture amoureuse, amicale ou professionnelle.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -408,7 +408,7 @@ export const soins: Soin[] = [
         text: "Au-delà de la perte, l'hypnose aide à se reconnecter à ses ressources, à donner une place apaisée au passé et à se réinvestir dans le présent.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Le deuil et la rupture demandent une grande délicatesse. Nous avançons à votre rythme, dans un cadre sécurisant et sans jugement. Le travail hypnotique vise à apaiser la douleur, à accompagner le cheminement et à vous aider à vous reconstruire.",
       "L'objectif n'est jamais d'effacer la personne ou la relation, mais de transformer la relation à la perte pour pouvoir continuer à vivre.",
@@ -432,7 +432,7 @@ export const soins: Soin[] = [
       {
         title:
           "Deuil amoureux : surmonter une rupture durablement grâce à l'hypnose",
-        href: "/blog/deuil-amoureux-hypnose-saint-brieuc",
+        href: "/blog/deuil-amoureux-hypnose-lanvollon",
       },
     ],
   },
@@ -444,22 +444,22 @@ export const soins: Soin[] = [
     icon: Candy,
     heroImage: "/blog/sucre-hypnose.png",
     heroImageAlt:
-      "Hypnose pour les troubles alimentaires et la perte de poids à Saint-Brieuc",
-    h1: "Hypnose pour les troubles alimentaires et la perte de poids à Saint-Brieuc",
+      "Hypnose pour les troubles alimentaires et la perte de poids à Lanvollon",
+    h1: "Hypnose pour les troubles alimentaires et la perte de poids à Lanvollon",
     metaTitle:
-      "Hypnose perte de poids & troubles alimentaires à Saint-Brieuc | Yves Deniau",
+      "Hypnose perte de poids & troubles alimentaires à Lanvollon | Yves Deniau",
     metaDescription:
-      "Grignotage, compulsions, envies de sucre, perte de poids : l'hypnothérapie agit sur la relation émotionnelle à la nourriture. Cabinet à Saint-Brieuc.",
+      "Grignotage, compulsions, envies de sucre, perte de poids : l'hypnothérapie agit sur la relation émotionnelle à la nourriture. Cabinet à Lanvollon.",
     keywords: [
-      "hypnose perte de poids Saint-Brieuc",
+      "hypnose perte de poids Lanvollon",
       "hypnose troubles alimentaires",
       "hypnose sucre",
       "grignotage compulsif",
-      "hypnothérapeute Saint-Brieuc",
+      "hypnothérapeute Lanvollon",
     ],
     intro: [
       "Notre relation à la nourriture est rarement seulement une affaire de volonté. Grignotage, compulsions, envies de sucre, alimentation émotionnelle : derrière ces comportements, il y a souvent des émotions, du stress, des automatismes inconscients.",
-      "À Saint-Brieuc, j'accompagne les personnes qui veulent retrouver une relation apaisée à l'alimentation et soutenir durablement une perte de poids.",
+      "À Lanvollon, j'accompagne les personnes qui veulent retrouver une relation apaisée à l'alimentation et soutenir durablement une perte de poids.",
     ],
     forWhomTitle: "Cet accompagnement est fait pour vous si…",
     forWhom: [
@@ -483,7 +483,7 @@ export const soins: Soin[] = [
         text: "En modifiant la relation à l'alimentation en profondeur, l'hypnose aide à installer de nouveaux automatismes et à « garder le cap » dans le temps.",
       },
     ],
-    approachTitle: "Mon approche à Saint-Brieuc",
+    approachTitle: "Mon approche à Lanvollon",
     approach: [
       "Nous explorons votre relation à la nourriture : les moments de craquage, les émotions associées, les automatismes. Le travail hypnotique vise ensuite à apaiser ce qui pousse à manger sans faim et à reconstruire une relation sereine à l'alimentation.",
       "L'hypnose ne remplace pas un suivi médical ou nutritionnel, en particulier en cas de trouble du comportement alimentaire avéré (anorexie, boulimie), qui nécessite une prise en charge pluridisciplinaire.",
@@ -506,7 +506,7 @@ export const soins: Soin[] = [
     related: [
       {
         title: "Sucre et hypnose : et si votre cerveau pouvait s'en libérer ?",
-        href: "/blog/sucre-hypnose-saint-brieuc",
+        href: "/blog/sucre-hypnose-lanvollon",
       },
     ],
   },

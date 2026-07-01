@@ -5,7 +5,7 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "Combien de séances d&apos;hypnose pour arrêter de fumer ?",
   description:
-    "Combien de séances d'hypnose pour arrêter de fumer ? L'hypnose cible l'inconscient pour vaincre la dépendance au tabac. Yves Deniau à Saint-Brieuc.",
+    "Combien de séances d'hypnose pour arrêter de fumer ? L'hypnose cible l'inconscient pour vaincre la dépendance au tabac. Yves Deniau à Lanvollon.",
   keywords: [
     "hypnose tabac saint brieuc",
     "séances hypnose arrêt tabac",
@@ -14,23 +14,23 @@ export const metadata: Metadata = {
     "hypnothérapie dépendance tabac",
     "arrêt tabac hypnose côtes armor",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/hypnose-tabac-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-tabac-lanvollon",
   },
   openGraph: {
     title: "Combien de séances d'hypnose pour arrêter de fumer ?",
     description:
-      "L'hypnothérapie cible les mécanismes inconscients de la dépendance au tabac. Découvrez le nombre de séances nécessaires avec Yves Deniau à Saint-Brieuc.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-tabac-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+      "L'hypnothérapie cible les mécanismes inconscients de la dépendance au tabac. Découvrez le nombre de séances nécessaires avec Yves Deniau à Lanvollon.",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-tabac-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/dessin-tabac.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/dessin-tabac.png",
         width: 1200,
         height: 630,
-        alt: "Hypnose pour arrêter de fumer à Saint-Brieuc",
+        alt: "Hypnose pour arrêter de fumer à Lanvollon",
       },
     ],
     locale: "fr_FR",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     title: "Combien de séances d'hypnose pour arrêter de fumer ?",
     description:
       "L'hypnothérapie cible les mécanismes inconscients de la dépendance au tabac.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/dessin-tabac.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/dessin-tabac.png"],
   },
 };
 
@@ -53,8 +53,8 @@ const HypnoseTabac = () => {
       <ArticleSchema
         title="Combien de séances d'hypnose pour arrêter de fumer ?"
         description="Découvrez combien de séances d'hypnothérapie sont nécessaires pour arrêter de fumer. L'hypnose cible les mécanismes inconscients de la dépendance au tabac."
-        url="https://www.hypnose-saintbrieuc.fr/blog/hypnose-tabac-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/dessin-tabac.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-tabac-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/dessin-tabac.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose tabac saint brieuc",
@@ -516,7 +516,7 @@ const HypnoseTabac = () => {
             <li>
               →{" "}
               <a
-                href="/blog/sevrage-tabac-saint-brieuc"
+                href="/blog/sevrage-tabac-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et sevrage tabagique : entre science et expérience
@@ -526,7 +526,7 @@ const HypnoseTabac = () => {
             <li>
               →{" "}
               <a
-                href="/blog/sucre-hypnose-saint-brieuc"
+                href="/blog/sucre-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?
@@ -536,7 +536,7 @@ const HypnoseTabac = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-definition-saint-brieuc"
+                href="/blog/hypnose-definition-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Qu&apos;est-ce que l&apos;hypnose ? Science et clinique

@@ -74,7 +74,7 @@ export default function Soins() {
       <Image
         src={"/cabinet-horizontal.JPG"}
         data-aos="zoom-in-left"
-        alt="Cabinet d'hypnose à Saint-Brieuc La Tour d'Auvergne"
+        alt="Cabinet d'hypnose à Lanvollon"
         width={500}
         height={500}
         className="mx-auto mt-8 rounded-2xl shadow-2xl w-4/5 lg:w-2/5 brightness-110 saturate-130"

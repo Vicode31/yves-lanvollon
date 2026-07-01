@@ -34,21 +34,21 @@ export default function ArticleSchema({
     author: {
       "@type": "Person",
       name: "Yves Deniau",
-      url: "https://www.hypnose-saintbrieuc.fr",
+      url: "https://www.hypnotherapeute-lanvollon-plouha.fr",
       jobTitle: "Hypnothérapeute",
       worksFor: {
         "@type": "LocalBusiness",
-        name: "Cabinet d'Hypnose Yves Deniau à Saint-Brieuc",
-        url: "https://www.hypnose-saintbrieuc.fr"
+        name: "Cabinet d'Hypnose Yves Deniau à Lanvollon",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr"
       }
     },
     publisher: {
       "@type": "Organization",
-      name: "Hypnose Saint-Brieuc - Yves Deniau",
-      url: "https://www.hypnose-saintbrieuc.fr",
+      name: "Hypnose Lanvollon - Yves Deniau",
+      url: "https://www.hypnotherapeute-lanvollon-plouha.fr",
       logo: {
         "@type": "ImageObject",
-        url: "https://www.hypnose-saintbrieuc.fr/logo-hypnose.avif",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/logo-hypnose.avif",
         width: 60,
         height: 60
       }
@@ -74,8 +74,8 @@ export default function ArticleSchema({
     mentions: [
       {
         "@type": "Place",
-        name: "Saint-Brieuc",
-        sameAs: "https://fr.wikipedia.org/wiki/Saint-Brieuc"
+        name: "Lanvollon",
+        sameAs: "https://fr.wikipedia.org/wiki/Lanvollon"
       }
     ],
     inLanguage: "fr-FR",
@@ -90,13 +90,13 @@ export default function ArticleSchema({
         "@type": "ListItem",
         position: 1,
         name: "Accueil",
-        item: "https://www.hypnose-saintbrieuc.fr"
+        item: "https://www.hypnotherapeute-lanvollon-plouha.fr"
       },
       {
         "@type": "ListItem",
         position: 2,
         name: "Blog",
-        item: "https://www.hypnose-saintbrieuc.fr/blog"
+        item: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog"
       },
       {
         "@type": "ListItem",

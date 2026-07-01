@@ -3,32 +3,32 @@ import type { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Hypnose et volonté : ce que dit la science | Saint-Brieuc",
+  title: "Hypnose et volonté : ce que dit la science | Lanvollon",
   description:
     "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
   keywords: [
     "hypnose",
     "hypnothérapie",
-    "Saint-Brieuc",
+    "Lanvollon",
     "éthique",
     "libre arbitre",
     "neurosciences",
     "conscience modifiée",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/hypnose-volonte-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-volonte-lanvollon",
   },
   openGraph: {
-    title: "Hypnose et volonté : ce que dit la science | Saint-Brieuc",
+    title: "Hypnose et volonté : ce que dit la science | Lanvollon",
     description:
       "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-volonte-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-volonte-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/irm-hypnose.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/irm-hypnose.png",
         width: 1200,
         height: 630,
         alt: "IRM hypnose et conscience modifiée",
@@ -41,10 +41,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Hypnose et volonté : ce que dit la science | Saint-Brieuc",
+    title: "Hypnose et volonté : ce que dit la science | Lanvollon",
     description:
       "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/irm-hypnose.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/irm-hypnose.png"],
   },
 };
 
@@ -52,15 +52,15 @@ const HypnoseVolonte = () => {
   return (
     <>
       <ArticleSchema
-        title="Hypnose et volonté : ce que dit la science | Saint-Brieuc"
+        title="Hypnose et volonté : ce que dit la science | Lanvollon"
         description="Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l'hypnose thérapeutique respecte toujours le libre arbitre du patient."
-        url="https://www.hypnose-saintbrieuc.fr/blog/hypnose-volonte-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/irm-hypnose.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-volonte-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/irm-hypnose.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose",
           "hypnothérapie",
-          "Saint-Brieuc",
+          "Lanvollon",
           "éthique",
           "libre arbitre",
           "neurosciences",
@@ -70,7 +70,7 @@ const HypnoseVolonte = () => {
       <div className="max-w-4xl px-4 py-8 mx-auto text-gray-800 text-justify max-lg:px-8">
         <header className="mb-8 text-center">
           <h1 className="mb-4 text-2xl font-bold lg:text-3xl">
-            Hypnose, Conscience Modifiée et Éthique à Saint-Brieuc : Ce que
+            Hypnose, Conscience Modifiée et Éthique à Lanvollon : Ce que
             Révèle la Science
           </h1>
           <div className="w-24 h-1 bg-green-800 mx-auto rounded-full"></div>
@@ -82,7 +82,7 @@ const HypnoseVolonte = () => {
           </h2>
           <div className="max-w-none">
             <p className="mb-4">
-              À Saint-Brieuc, comme ailleurs, l&apos;intérêt pour l&apos;hypnose
+              À Lanvollon, comme ailleurs, l&apos;intérêt pour l&apos;hypnose
               thérapeutique ne cesse de croître. Mais l&apos;idée que l&apos;on
               pourrait &quot;contrôler&quot; l&apos;esprit d&apos;une autre
               personne suscite toujours méfiance. Or, les dernières découvertes
@@ -214,13 +214,13 @@ const HypnoseVolonte = () => {
 
         <section className="mb-10">
           <h2 className="mb-4 text-xl font-semibold lg:text-2xl">
-            4. L&apos;éthique en hypnose à Saint-Brieuc : Peut-on forcer
+            4. L&apos;éthique en hypnose à Lanvollon : Peut-on forcer
             quelqu&apos;un ?
           </h2>
           <div className=" max-w-none">
             <p className="mb-4">
               C&apos;est la question la plus fréquente dans les cabinets de{" "}
-              <strong>hypnothérapeute à Saint-Brieuc</strong> :{" "}
+              <strong>hypnothérapeute à Lanvollon</strong> :{" "}
               <em>
                 &quot;Pourrez-vous me faire faire des choses contre ma volonté
                 ?&quot;
@@ -283,7 +283,7 @@ const HypnoseVolonte = () => {
             </ul>
             <Image
               src={"/blog/seance-hypnose.png"}
-              alt="Seance hypnose à Saint-Brieuc"
+              alt="Seance hypnose à Lanvollon"
               width={600}
               height={300}
               className="mx-auto mb-8 border border-gray-100 rounded-lg"
@@ -291,7 +291,7 @@ const HypnoseVolonte = () => {
 
             <p className="mb-4">
               Ce modèle est central dans la pratique des{" "}
-              <strong>hypnothérapeutes à Saint-Brieuc</strong> certifiés et
+              <strong>hypnothérapeutes à Lanvollon</strong> certifiés et
               respectueux du cadre déontologique.
             </p>
           </div>
@@ -338,7 +338,7 @@ const HypnoseVolonte = () => {
           </h2>
           <div className=" max-w-none">
             <p className="mb-4">
-              Si vous vivez à Saint-Brieuc ou aux alentours, consulter un
+              Si vous vivez à Lanvollon ou aux alentours, consulter un
               hypnothérapeute compétent peut vous aider à :
             </p>
 
@@ -411,7 +411,7 @@ const HypnoseVolonte = () => {
 
             <div className="p-4 bg-white rounded-lg shadow-sm">
               <h3 className="font-medium">
-                6. Où trouver un hypnothérapeute fiable à Saint-Brieuc ?
+                6. Où trouver un hypnothérapeute fiable à Lanvollon ?
               </h3>
               <p>
                 Consultez les annuaires professionnels (SNH, FFHTB, etc.) et
@@ -428,7 +428,7 @@ const HypnoseVolonte = () => {
           <div className=" max-w-none">
             <p className="mb-4">
               L&apos;hypnose, telle que pratiquée par un{" "}
-              <strong>hypnothérapeute éthique à Saint-Brieuc</strong>, ne
+              <strong>hypnothérapeute éthique à Lanvollon</strong>, ne
               cherche pas à vous manipuler, mais à vous{" "}
               <strong>
                 accompagner dans la découverte de vos propres ressources
@@ -452,7 +452,7 @@ const HypnoseVolonte = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-definition-saint-brieuc"
+                href="/blog/hypnose-definition-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Qu&apos;est-ce que l&apos;hypnose ? Science et clinique
@@ -462,7 +462,7 @@ const HypnoseVolonte = () => {
             <li>
               →{" "}
               <a
-                href="/blog/crise-angoisse-hypnose-saint-brieuc"
+                href="/blog/crise-angoisse-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
@@ -472,7 +472,7 @@ const HypnoseVolonte = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-spectacle-saint-brieuc"
+                href="/blog/hypnose-spectacle-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnothérapie vs hypnose de spectacle

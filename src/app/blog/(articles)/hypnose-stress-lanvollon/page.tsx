@@ -7,32 +7,32 @@ import React from "react";
 export const metadata: Metadata = {
   title: "Hypnose et stress : une réponse naturelle validée par la science",
   description:
-    "L'hypnose face au stress : méthode naturelle validée par la science. Yves Deniau, hypnothérapeute à Saint-Brieuc, vous aide à retrouver la sérénité.",
+    "L'hypnose face au stress : méthode naturelle validée par la science. Yves Deniau, hypnothérapeute à Lanvollon, vous aide à retrouver la sérénité.",
   keywords: [
     "hypnose stress",
     "hypnothérapie stress",
-    "Saint-Brieuc",
+    "Lanvollon",
     "gestion stress hypnose",
     "hypnose anxiété",
     "hypnothérapeute stress saint brieuc",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress-lanvollon",
   },
   openGraph: {
     title: "Hypnose et stress : une réponse naturelle validée par la science",
     description:
       "Le stress, ce mal du siècle, s'immisce dans toutes les sphères de notre vie. Il affecte notre sommeil, notre concentration, notre humeur, notre digestion, et bien souvent notre santé à long terme.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress.png",
         width: 1200,
         height: 630,
-        alt: "Hypnose et stress à Saint-Brieuc",
+        alt: "Hypnose et stress à Lanvollon",
       },
     ],
     locale: "fr_FR",
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title: "Hypnose et stress : une réponse naturelle validée par la science",
     description:
       "Le stress, ce mal du siècle, s'immisce dans toutes les sphères de notre vie. Il affecte notre sommeil, notre concentration, notre humeur, notre digestion, et bien souvent notre santé à long terme.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress.png"],
   },
 };
 
@@ -55,13 +55,13 @@ const HypnoseStress: React.FC = () => {
       <ArticleSchema
         title="Hypnose et stress : une réponse naturelle validée par la science"
         description="Le stress, ce mal du siècle, s'immisce dans toutes les sphères de notre vie. Il affecte notre sommeil, notre concentration, notre humeur, notre digestion, et bien souvent notre santé à long terme. Mais face à l'arsenal de solutions proposées – médicaments, yoga, méditation, sophrologie – une méthode continue de se démarquer par son efficacité et sa douceur : l'hypnose."
-        url="https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/hypnose-stress.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-stress.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose stress",
           "hypnothérapie stress",
-          "Saint-Brieuc",
+          "Lanvollon",
           "gestion stress hypnose",
           "hypnose anxiété",
           "hypnothérapeute stress saint brieuc",
@@ -146,7 +146,7 @@ const HypnoseStress: React.FC = () => {
         </section>
         <Image
           src="/blog/hypnose-stress.png"
-          alt="Hypnose et stress à Saint-Brieuc"
+          alt="Hypnose et stress à Lanvollon"
           width={1000}
           height={1000}
           className="rounded-lg w-full lg:w-2/3 mx-auto "
@@ -378,7 +378,7 @@ const HypnoseStress: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/crise-angoisse-hypnose-saint-brieuc"
+                href="/blog/crise-angoisse-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
@@ -388,7 +388,7 @@ const HypnoseStress: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/insomnie-hypnose-saint-brieuc"
+                href="/blog/insomnie-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?
@@ -398,7 +398,7 @@ const HypnoseStress: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/deuil-amoureux-hypnose-saint-brieuc"
+                href="/blog/deuil-amoureux-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Deuil amoureux et hypnose : se reconstruire

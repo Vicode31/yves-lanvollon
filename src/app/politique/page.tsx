@@ -1,9 +1,9 @@
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Politique de confidentialité | Hypnose Saint-Brieuc",
+  title: "Politique de confidentialité | Hypnose Lanvollon",
   description:
-    "Politique de confidentialité du cabinet d'hypnothérapie de Yves Deniau à Saint-Brieuc",
+    "Politique de confidentialité du cabinet d'hypnothérapie de Yves Deniau à Lanvollon",
 };
 
 export default function PolitiquePage() {
@@ -15,8 +15,8 @@ export default function PolitiquePage() {
         <h2>1. Introduction</h2>
         <p>
           Cette politique de confidentialité s&apos;applique au site web du
-          Cabinet d&apos;Hypnose Yves Deniau, situé au 25 G Bd de la Tour
-          d&apos;Auvergne Bâtiment le Grand, 22000 Saint-Brieuc.
+          Cabinet d&apos;Hypnose Yves Deniau, situé au Pôle Médical, 26 rue des
+          Fontaines, 22290 Lanvollon.
         </p>
       </section>
 
@@ -75,8 +75,8 @@ export default function PolitiquePage() {
         <ul>
           <li>Par téléphone : +33613224382</li>
           <li>
-            À notre adresse : 25 G Bd de la Tour d&apos;Auvergne Bâtiment le
-            Grand, 22000 Saint-Brieuc
+            À notre adresse : Pôle Médical, 26 rue des Fontaines, 22290
+            Lanvollon
           </li>
         </ul>
       </section>

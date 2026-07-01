@@ -32,7 +32,7 @@ export async function generateMetadata({ params }: Params): Promise<Metadata> {
       title: soin.metaTitle,
       description: soin.metaDescription,
       url,
-      siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+      siteName: "Hypnose Lanvollon - Yves Deniau",
       images: [
         {
           url: ogImage,
@@ -73,7 +73,7 @@ export default async function SoinPage({ params }: Params) {
         serviceType: "Hypnothérapie",
         areaServed: {
           "@type": "City",
-          name: "Saint-Brieuc",
+          name: "Lanvollon",
         },
         provider: {
           "@type": "Person",
@@ -260,7 +260,7 @@ export default async function SoinPage({ params }: Params) {
           <h2
             className={`mb-6 text-2xl md:text-3xl ${gotu.className} text-gray-900`}
           >
-            Prendre rendez-vous à Saint-Brieuc
+            Prendre rendez-vous à Lanvollon
           </h2>
           <ul className="mb-6 space-y-1 text-gray-800">
             <li>Adulte : 70 €</li>

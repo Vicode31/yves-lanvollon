@@ -35,7 +35,7 @@ export default function ArticleLayout({
         <div className="flex flex-col items-center text-center">
           <Image
             src="/yves-deniau.jpg"
-            alt="Hypnothérapeute Saint-Brieuc"
+            alt="Hypnothérapeute Lanvollon"
             width={100}
             height={100}
             className="object-cover mb-4 rounded-full size-24 transform transition-transform duration-300 group-hover:scale-105"
@@ -49,7 +49,7 @@ export default function ArticleLayout({
         <div className="text-sm text-center text-gray-600 px-5 mt-2">
           {" "}
           <p>
-            Hypnothérapeute à Saint-Brieuc diplômé de l&apos;ARCHE et membre du
+            Hypnothérapeute à Lanvollon diplômé de l&apos;ARCHE et membre du
             Syndicat National des Hypnothérapeutes (SNH)
           </p>{" "}
         </div>

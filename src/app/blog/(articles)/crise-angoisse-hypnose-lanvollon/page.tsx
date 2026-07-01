@@ -16,7 +16,7 @@ const description =
   "Crises d'angoisse, attaques de panique, hypervigilance : comprendre ce que dit la neuroscience et pourquoi l'hypnose peut aider à apaiser durablement le système nerveux.";
 
 const ogImage =
-  "https://www.hypnose-saintbrieuc.fr/blog/comment-cerveau-fabrique-crise-angoisse.png";
+  "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/comment-cerveau-fabrique-crise-angoisse.png";
 
 export const metadata: Metadata = {
   title,
@@ -26,21 +26,21 @@ export const metadata: Metadata = {
     "attaque de panique",
     "hypnose anxiété",
     "hypnothérapie crise d'angoisse",
-    "Saint-Brieuc",
+    "Lanvollon",
     "système nerveux",
     "trouble panique",
     "régulation émotionnelle",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/crise-angoisse-hypnose-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/crise-angoisse-hypnose-lanvollon",
   },
   openGraph: {
     title,
     description,
-    url: "https://www.hypnose-saintbrieuc.fr/blog/crise-angoisse-hypnose-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/crise-angoisse-hypnose-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,
@@ -76,7 +76,7 @@ const CriseAngoisseHypnose: React.FC = () => {
       <ArticleSchema
         title={title}
         description={description}
-        url="https://www.hypnose-saintbrieuc.fr/blog/crise-angoisse-hypnose-saint-brieuc"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/crise-angoisse-hypnose-lanvollon"
         image={ogImage}
         datePublished="2026-05-08T00:00:00.000Z"
         keywords={[
@@ -84,7 +84,7 @@ const CriseAngoisseHypnose: React.FC = () => {
           "attaque de panique",
           "hypnose anxiété",
           "hypnothérapie crise d'angoisse",
-          "Saint-Brieuc",
+          "Lanvollon",
           "système nerveux",
           "trouble panique",
           "régulation émotionnelle",
@@ -104,7 +104,7 @@ const CriseAngoisseHypnose: React.FC = () => {
             Sophie, 38 ans, « tout pour aller bien » — et pourtant
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
-            Sophie travaille dans une entreprise de logistique à Saint-Brieuc.
+            Sophie travaille dans une entreprise de logistique à Lanvollon.
             Cadre depuis cinq ans, elle gère son équipe, ses dossiers, sa
             famille.
           </p>
@@ -380,7 +380,7 @@ const CriseAngoisseHypnose: React.FC = () => {
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-semibold mb-6 max-md:text-center">
             Ce que j&apos;observe régulièrement en consultation d'hypnothérapie
-            à Saint-Brieuc :
+            à Lanvollon :
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
             Quand une personne arrive au cabinet pour des crises
@@ -682,7 +682,7 @@ const CriseAngoisseHypnose: React.FC = () => {
 
           <Image
             src="/blog/crise-angoisse-mon-approche.png"
-            alt="Crise d'angoisse : mon approche en cabinet à Saint-Brieuc"
+            alt="Crise d'angoisse : mon approche en cabinet à Lanvollon"
             width={1024}
             height={1024}
             className="rounded-lg w-full mb-10 lg:w-2/3 mx-auto"
@@ -938,7 +938,7 @@ const CriseAngoisseHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science
@@ -948,7 +948,7 @@ const CriseAngoisseHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-volonte-saint-brieuc"
+                href="/blog/hypnose-volonte-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et volonté : ce que dit la science
@@ -958,7 +958,7 @@ const CriseAngoisseHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/insomnie-hypnose-saint-brieuc"
+                href="/blog/insomnie-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?

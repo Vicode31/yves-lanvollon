@@ -5,37 +5,35 @@ import Image from "next/image";
 import React from "react";
 
 export const metadata: Metadata = {
-  title:
-    "Qu&apos;est-ce que l&apos;hypnose ? Science et clinique | Saint-Brieuc",
+  title: "Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon",
   description:
-    "Qu'est-ce que l'hypnose ? Exploration scientifique et clinique par Yves Deniau, hypnothérapeute à Saint-Brieuc. Découvrez ce qu'est réellement l'hypnose thérapeutique.",
+    "Qu'est-ce que l'hypnose ? Exploration scientifique et clinique par Yves Deniau, hypnothérapeute à Lanvollon. Découvrez ce qu'est réellement l'hypnose thérapeutique.",
   keywords: [
     "hypnose",
     "hypnothérapie",
-    "Saint-Brieuc",
+    "Lanvollon",
     "tabac",
     "sevrage",
     "hypnothérapeute",
     "hypnose thérapeutique",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/hypnose-definition-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-definition-lanvollon",
   },
   openGraph: {
-    title:
-      "Qu&apos;est-ce que l&apos;hypnose ? Science et clinique | Saint-Brieuc",
+    title: "Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Et c&apos;est en étudiant les données scientifiques autour de l&apos;hypnose pour l&apos;arrêt du tabac que j&apos;ai découvert un champ thérapeutique d&apos;une richesse insoupçonnée.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-definition-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-definition-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-cabinet.jpeg",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-cabinet.jpeg",
         width: 1200,
         height: 630,
-        alt: "Cabinet d&apos;hypnose à Saint-Brieuc",
+        alt: "Cabinet d'hypnose à Lanvollon",
       },
     ],
     locale: "fr_FR",
@@ -45,11 +43,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title:
-      "Qu&apos;est-ce que l&apos;hypnose ? Science et clinique | Saint-Brieuc",
+    title: "Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Et c&apos;est en étudiant les données scientifiques autour de l&apos;hypnose pour l&apos;arrêt du tabac que j&apos;ai découvert un champ thérapeutique d&apos;une richesse insoupçonnée.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/hypnose-cabinet.jpeg"],
+      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-cabinet.jpeg"],
   },
 };
 
@@ -57,15 +54,15 @@ const HypnoseDefinitionArticle: React.FC = () => {
   return (
     <>
       <ArticleSchema
-        title="Qu'est-ce que l'hypnose ? Science et clinique | Saint-Brieuc"
+        title="Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon"
         description="Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée."
-        url="https://www.hypnose-saintbrieuc.fr/blog/hypnose-definition-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/hypnose-cabinet.jpeg"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-definition-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-cabinet.jpeg"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose",
           "hypnothérapie",
-          "Saint-Brieuc",
+          "Lanvollon",
           "tabac",
           "sevrage",
           "hypnothérapeute",
@@ -101,7 +98,7 @@ const HypnoseDefinitionArticle: React.FC = () => {
         </section>
         <Image
           src="/blog/hypnose-cabinet.jpeg"
-          alt="Cabinet d'hypnose à Saint-Brieuc la Tour d'Auvergne"
+          alt="Cabinet d'hypnose à Lanvollon"
           width={400}
           height={400}
           className="rounded-lg mx-auto"
@@ -440,32 +437,36 @@ const HypnoseDefinitionArticle: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-volonte-saint-brieuc"
+                href="/blog/hypnose-volonte-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et volonté : ce que dit la science
               </a>{" "}
-              — L&apos;hypnose modifie-t-elle la conscience ? Ce que la neuroscience révèle sur le libre arbitre et l&apos;éthique thérapeutique.
+              — L&apos;hypnose modifie-t-elle la conscience ? Ce que la
+              neuroscience révèle sur le libre arbitre et l&apos;éthique
+              thérapeutique.
             </li>
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-spectacle-saint-brieuc"
+                href="/blog/hypnose-spectacle-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnothérapie vs hypnose de spectacle
               </a>{" "}
-              — Pourquoi l&apos;hypnothérapie clinique n&apos;a rien à voir avec les shows télévisés.
+              — Pourquoi l&apos;hypnothérapie clinique n&apos;a rien à voir avec
+              les shows télévisés.
             </li>
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science
               </a>{" "}
-              — Comment l&apos;hypnose agit concrètement sur le système nerveux pour réduire le stress chronique.
+              — Comment l&apos;hypnose agit concrètement sur le système nerveux
+              pour réduire le stress chronique.
             </li>
           </ul>
         </section>

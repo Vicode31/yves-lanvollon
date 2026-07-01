@@ -39,12 +39,12 @@ export default function Navbar() {
           >
             <Image
               src={"/logo-hypnose.avif"}
-              alt="Logo hypnothérapie à Saint-Brieuc"
+              alt="Logo hypnothérapie à Lanvollon"
               width={70}
               height={70}
             />
             <LogoTag className={`ml-2 text-xl font-medium ${gotu}`}>
-              Hypnothérapeute à Saint-Brieuc
+              Hypnothérapeute à Lanvollon
             </LogoTag>
           </Link>
 

@@ -3,10 +3,10 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import React from "react";
 
-const title = "Deuil amoureux et hypnose : se reconstruire | Saint-Brieuc";
+const title = "Deuil amoureux et hypnose : se reconstruire | Lanvollon";
 
 const description =
-  "Rupture amoureuse, ruminations, manque : le deuil amoureux est une réaction normale. La neuroscience et l'hypnose pour se reconstruire durablement à Saint-Brieuc.";
+  "Rupture amoureuse, ruminations, manque : le deuil amoureux est une réaction normale. La neuroscience et l'hypnose pour se reconstruire durablement à Lanvollon.";
 
 export const metadata: Metadata = {
   title,
@@ -16,23 +16,23 @@ export const metadata: Metadata = {
     "rupture amoureuse",
     "hypnose deuil",
     "hypnothérapie rupture",
-    "Saint-Brieuc",
+    "Lanvollon",
     "surmonter rupture",
     "rumination amoureuse",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux-hypnose-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux-hypnose-lanvollon",
   },
   openGraph: {
     title,
     description,
-    url: "https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux-hypnose-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux-hypnose-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux.png",
         width: 1024,
         height: 1024,
         alt: "Schéma des étapes du deuil amoureux : choc, sens, rumination, tristesse, détachement",
@@ -47,7 +47,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title,
     description,
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux.png"],
   },
 };
 
@@ -65,15 +65,15 @@ const DeuilAmoureuxHypnose: React.FC = () => {
       <ArticleSchema
         title={title}
         description={description}
-        url="https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux-hypnose-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/deuil-amoureux.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux-hypnose-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/deuil-amoureux.png"
         datePublished="2026-03-21T00:00:00.000Z"
         keywords={[
           "deuil amoureux",
           "rupture amoureuse",
           "hypnose deuil",
           "hypnothérapie rupture",
-          "Saint-Brieuc",
+          "Lanvollon",
           "surmonter rupture",
           "rumination amoureuse",
         ]}
@@ -547,7 +547,7 @@ const DeuilAmoureuxHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/crise-angoisse-hypnose-saint-brieuc"
+                href="/blog/crise-angoisse-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
@@ -557,7 +557,7 @@ const DeuilAmoureuxHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science
@@ -567,7 +567,7 @@ const DeuilAmoureuxHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/insomnie-hypnose-saint-brieuc"
+                href="/blog/insomnie-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?

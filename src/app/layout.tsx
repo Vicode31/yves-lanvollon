@@ -8,13 +8,13 @@ import { roboto_flex } from "./font";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.hypnose-saintbrieuc.fr"),
+  metadataBase: new URL("https://www.hypnotherapeute-lanvollon-plouha.fr"),
   title: {
-    template: "%s | Hypnose Saint-Brieuc",
-    default: "Hypnothérapeute à Saint-Brieuc | Yves Deniau",
+    template: "%s | Hypnose Lanvollon",
+    default: "Hypnothérapeute à Lanvollon | Yves Deniau",
   },
   description:
-    "Cabinet d'hypnose à Saint-Brieuc - Yves Deniau, hypnothérapeute certifié. Spécialiste en hypnose thérapeutique pour stress, anxiété, phobies, arrêt du tabac. Prenez RDV.",
+    "Cabinet d'hypnose à Lanvollon - Yves Deniau, hypnothérapeute certifié. Spécialiste en hypnose thérapeutique pour stress, anxiété, phobies, arrêt du tabac. Prenez RDV.",
   keywords: [
     "hypnose saint brieuc",
     "hypnotherapeute saint brieuc",
@@ -32,20 +32,20 @@ export const metadata: Metadata = {
     "cabinet d'hypnothérapie",
   ],
   alternates: {
-    canonical: "https://www.hypnose-saintbrieuc.fr",
+    canonical: "https://www.hypnotherapeute-lanvollon-plouha.fr",
   },
   openGraph: {
-    title: "Hypnothérapeute à Saint-Brieuc | Yves Deniau",
+    title: "Hypnothérapeute à Lanvollon | Yves Deniau",
     description:
-      "Yves Deniau, hypnothérapeute certifié à Saint-Brieuc, vous accompagne pour retrouver bien-être et confiance. Spécialiste en hypnose pour stress, addictions, deuil, anxiété, phobies, arrêt du tabac.",
-    url: "https://www.hypnose-saintbrieuc.fr",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+      "Yves Deniau, hypnothérapeute certifié à Lanvollon, vous accompagne pour retrouver bien-être et confiance. Spécialiste en hypnose pour stress, addictions, deuil, anxiété, phobies, arrêt du tabac.",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/yves-deniau.jpg",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/yves-deniau.jpg",
         width: 1200,
         height: 630,
-        alt: "Yves DENIAU - Hypnothérapeute à Saint-Brieuc",
+        alt: "Yves DENIAU - Hypnothérapeute à Lanvollon",
       },
     ],
     locale: "fr_FR",

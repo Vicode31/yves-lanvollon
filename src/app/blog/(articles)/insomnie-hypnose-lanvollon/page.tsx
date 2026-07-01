@@ -13,10 +13,10 @@ const title =
   "Insomnie : et si l'hypnose réapprenait le sommeil à votre cerveau ?";
 
 const description =
-  "Insomnie chronique, hyperéveil, ruminations nocturnes : comprendre ce que dit la neuroscience et pourquoi l'hypnose peut aider le cerveau à retrouver le sommeil durablement à Saint-Brieuc.";
+  "Insomnie chronique, hyperéveil, ruminations nocturnes : comprendre ce que dit la neuroscience et pourquoi l'hypnose peut aider le cerveau à retrouver le sommeil durablement à Lanvollon.";
 
 const ogImage =
-  "https://www.hypnose-saintbrieuc.fr/blog/hypnose-reaprenait-sommeil.png";
+  "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-reaprenait-sommeil.png";
 
 export const metadata: Metadata = {
   title,
@@ -25,22 +25,22 @@ export const metadata: Metadata = {
     "insomnie",
     "hypnose insomnie",
     "hypnothérapie sommeil",
-    "Saint-Brieuc",
+    "Lanvollon",
     "trouble du sommeil",
     "hyperéveil",
     "ruminations nocturnes",
     "insomnie chronique",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/insomnie-hypnose-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/insomnie-hypnose-lanvollon",
   },
   openGraph: {
     title,
     description,
-    url: "https://www.hypnose-saintbrieuc.fr/blog/insomnie-hypnose-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/insomnie-hypnose-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,
@@ -76,14 +76,14 @@ const InsomniesHypnosePage: React.FC = () => {
       <ArticleSchema
         title={title}
         description={description}
-        url="https://www.hypnose-saintbrieuc.fr/blog/insomnie-hypnose-saint-brieuc"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/insomnie-hypnose-lanvollon"
         image={ogImage}
         datePublished="2026-06-07T00:00:00.000Z"
         keywords={[
           "insomnie",
           "hypnose insomnie",
           "hypnothérapie sommeil",
-          "Saint-Brieuc",
+          "Lanvollon",
           "trouble du sommeil",
           "hyperéveil",
           "ruminations nocturnes",
@@ -226,7 +226,7 @@ const InsomniesHypnosePage: React.FC = () => {
               jeunes en bonne santé.
             </li>
             <li>
-              À Saint-Brieuc, j&apos;accompagne régulièrement des personnes
+              À Lanvollon, j&apos;accompagne régulièrement des personnes
               souffrant d&apos;insomnie, en travaillant sur l&apos;hyperéveil,
               les pensées nocturnes et les automatismes qui maintiennent le
               cercle vicieux.
@@ -662,7 +662,7 @@ const InsomniesHypnosePage: React.FC = () => {
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-semibold mb-6 max-md:text-center">
             Ce que j&apos;observe en consultation — Yves DENIAU, hypnothérapeute
-            à Saint-Brieuc
+            à Lanvollon
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
             Je reçois régulièrement des personnes qui viennent avec un
@@ -985,7 +985,7 @@ const InsomniesHypnosePage: React.FC = () => {
 
         <Image
           src="/blog/insomnie-et-hypnose.png"
-          alt="Hypnose et insomnie : retrouver le sommeil naturellement à Saint-Brieuc"
+          alt="Hypnose et insomnie : retrouver le sommeil naturellement à Lanvollon"
           width={1024}
           height={1024}
           className="rounded-lg w-full mb-10 lg:w-2/3 mx-auto"
@@ -1150,10 +1150,10 @@ const InsomniesHypnosePage: React.FC = () => {
         {/* L'approche du cabinet */}
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-semibold mb-6 max-md:text-center">
-            L&apos;approche du cabinet à Saint-Brieuc
+            L&apos;approche du cabinet à Lanvollon
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
-            À Saint-Brieuc, je propose un accompagnement spécifique pour les
+            À Lanvollon, je propose un accompagnement spécifique pour les
             personnes souffrant d&apos;insomnie chronique ou de troubles du
             sommeil liés à l&apos;anxiété et au stress. Cet accompagnement
             s&apos;articule autour de plusieurs axes.
@@ -1208,7 +1208,7 @@ const InsomniesHypnosePage: React.FC = () => {
             </li>
           </ul>
           <p className="mb-6 text-gray-700 leading-relaxed">
-            Les séances peuvent se tenir au cabinet de Saint-Brieuc ou en
+            Les séances peuvent se tenir au cabinet de Lanvollon ou en
             visioconférence. La visioconférence peut même être avantageuse pour
             l&apos;insomnie : la personne travaille depuis l&apos;environnement
             dans lequel le sommeil doit se réapprendre.
@@ -1219,14 +1219,14 @@ const InsomniesHypnosePage: React.FC = () => {
             </p>
             <p className="text-gray-700">
               Pour un accompagnement personnalisé de votre insomnie à
-              Saint-Brieuc, contactez le cabinet via{" "}
+              Lanvollon, contactez le cabinet via{" "}
               <a
-                href="https://www.hypnose-saintbrieuc.fr"
+                href="https://www.hypnotherapeute-lanvollon-plouha.fr"
                 className="text-vertSapin underline hover:no-underline"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                www.hypnose-saintbrieuc.fr
+                www.hypnotherapeute-lanvollon-plouha.fr
               </a>
             </p>
           </div>
@@ -1665,7 +1665,7 @@ const InsomniesHypnosePage: React.FC = () => {
           </p>
           <p className="text-gray-700 leading-relaxed">
             <strong>
-              Yves DENIAU reçoit à son cabinet de Saint-Brieuc du lundi au
+              Yves DENIAU reçoit à son cabinet de Lanvollon du lundi au
               vendredi.
             </strong>{" "}
             Les séances peuvent également se tenir à distance, en
@@ -1681,7 +1681,7 @@ const InsomniesHypnosePage: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science
@@ -1691,7 +1691,7 @@ const InsomniesHypnosePage: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/crise-angoisse-hypnose-saint-brieuc"
+                href="/blog/crise-angoisse-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
@@ -1701,7 +1701,7 @@ const InsomniesHypnosePage: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/sucre-hypnose-saint-brieuc"
+                href="/blog/sucre-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?

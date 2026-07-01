@@ -32,7 +32,7 @@ export default function About() {
               height={400}
               data-aos="zoom-in-right"
               src="/yves-deniau.jpg"
-              alt="Yves Deniau hypnothérapeute à Saint-Brieuc"
+              alt="Yves Deniau hypnothérapeute à Lanvollon"
               className="rounded-lg shadow-lg max-lg:w-3/4"
             />
             <h2
@@ -84,7 +84,7 @@ export default function About() {
               <p>
                 J’ai validé mon niveau de Praticien ce qui me permet d’exercer
                 et de vous accueillir aujourd’hui dans mon Cabinet de
-                Saint-Brieuc (22). Je suis membre du{" "}
+                Lanvollon (22). Je suis membre du{" "}
                 <a href="https://www.snhypnose.fr/" className="underline">
                   {" "}
                   Syndicat National des Hypnothérapeutes

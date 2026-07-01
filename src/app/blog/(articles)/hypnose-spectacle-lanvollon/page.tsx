@@ -5,32 +5,32 @@ import React from "react";
 export const metadata: Metadata = {
   title: "Hypnothérapie vs Hypnose de Spectacle : Comprendre les Différences",
   description:
-    "Hypnothérapie ou hypnose de spectacle : quelles différences ? Yves Deniau, hypnothérapeute à Saint-Brieuc, vous explique les véritables effets de l'hypnose.",
+    "Hypnothérapie ou hypnose de spectacle : quelles différences ? Yves Deniau, hypnothérapeute à Lanvollon, vous explique les véritables effets de l'hypnose.",
   keywords: [
     "hypnose spectacle",
     "hypnothérapie",
-    "Saint-Brieuc",
+    "Lanvollon",
     "hypnose thérapeutique",
     "différence hypnose spectacle thérapeutique",
     "hypnothérapeute saint brieuc",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle-lanvollon",
   },
   openGraph: {
     title: "Hypnothérapie vs Hypnose de Spectacle : Comprendre les Différences",
     description:
       "L'hypnose est un terme qui évoque souvent des images de pendules oscillants, de personnes endormies sur scène ou de transformations spectaculaires.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle.png",
         width: 1200,
         height: 630,
-        alt: "Hypnose spectacle vs hypnothérapie à Saint-Brieuc",
+        alt: "Hypnose spectacle vs hypnothérapie à Lanvollon",
       },
     ],
     locale: "fr_FR",
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     title: "Hypnothérapie vs Hypnose de Spectacle : Comprendre les Différences",
     description:
       "L'hypnose est un terme qui évoque souvent des images de pendules oscillants, de personnes endormies sur scène ou de transformations spectaculaires.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle.png"],
   },
 };
 
@@ -53,13 +53,13 @@ const HypnoseSpectacle: React.FC = () => {
       <ArticleSchema
         title="Hypnothérapie vs Hypnose de Spectacle : Comprendre les Différences"
         description="L'hypnose est un terme qui évoque souvent des images de pendules oscillants, de personnes endormies sur scène ou de transformations spectaculaires. Cependant, il est essentiel de distinguer l'hypnose utilisée à des fins thérapeutiques de celle employée pour le divertissement."
-        url="https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/hypnose-spectacle.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-spectacle.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose spectacle",
           "hypnothérapie",
-          "Saint-Brieuc",
+          "Lanvollon",
           "hypnose thérapeutique",
           "différence hypnose spectacle thérapeutique",
           "hypnothérapeute saint brieuc",
@@ -337,7 +337,7 @@ const HypnoseSpectacle: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-definition-saint-brieuc"
+                href="/blog/hypnose-definition-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Qu&apos;est-ce que l&apos;hypnose ? Science et clinique
@@ -347,7 +347,7 @@ const HypnoseSpectacle: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-volonte-saint-brieuc"
+                href="/blog/hypnose-volonte-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et volonté : ce que dit la science
@@ -357,7 +357,7 @@ const HypnoseSpectacle: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science

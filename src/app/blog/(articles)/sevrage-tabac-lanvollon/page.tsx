@@ -7,11 +7,11 @@ import React from "react";
 export const metadata: Metadata = {
   title: "Hypnose et sevrage tabagique : Entre science et expérience",
   description:
-    "Hypnose et sevrage tabagique à Saint-Brieuc : entre science et expérience. Yves Deniau, hypnothérapeute certifié, vous guide vers l'arrêt du tabac.",
+    "Hypnose et sevrage tabagique à Lanvollon : entre science et expérience. Yves Deniau, hypnothérapeute certifié, vous guide vers l'arrêt du tabac.",
   keywords: [
     "hypnose",
     "hypnothérapie",
-    "Saint-Brieuc",
+    "Lanvollon",
     "tabac",
     "sevrage",
     "hypnothérapeute",
@@ -22,23 +22,23 @@ export const metadata: Metadata = {
     "hypnose thérapeutique",
     "sevrage tabagique",
   ],
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/sevrage-tabac-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sevrage-tabac-lanvollon",
   },
   openGraph: {
     title: "Hypnose et sevrage tabagique : Entre science et expérience",
     description:
       "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
-    url: "https://www.hypnose-saintbrieuc.fr/blog/sevrage-tabac-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sevrage-tabac-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
-        url: "https://www.hypnose-saintbrieuc.fr/blog/arret-tabac.png",
+        url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/arret-tabac.png",
         width: 1200,
         height: 630,
-        alt: "Arrêt du tabac à Saint-Brieuc",
+        alt: "Arrêt du tabac à Lanvollon",
       },
     ],
     locale: "fr_FR",
@@ -51,7 +51,7 @@ export const metadata: Metadata = {
     title: "Hypnose et sevrage tabagique : Entre science et expérience",
     description:
       "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
-    images: ["https://www.hypnose-saintbrieuc.fr/blog/arret-tabac.png"],
+    images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/arret-tabac.png"],
   },
 };
 
@@ -61,13 +61,13 @@ const Tabac: React.FC = () => {
       <ArticleSchema
         title="Hypnose et sevrage tabagique : Entre science et expérience"
         description="Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée. Aujourd'hui, je vous partage ces connaissances — non pas comme un simple relai d'information, mais comme un professionnel de santé engagé dans l'accompagnement humain et rigoureux du sevrage."
-        url="https://www.hypnose-saintbrieuc.fr/blog/sevrage-tabac-saint-brieuc"
-        image="https://www.hypnose-saintbrieuc.fr/blog/arret-tabac.png"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sevrage-tabac-lanvollon"
+        image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/arret-tabac.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
           "hypnose",
           "hypnothérapie",
-          "Saint-Brieuc",
+          "Lanvollon",
           "tabac",
           "sevrage",
           "hypnothérapeute",
@@ -114,7 +114,7 @@ const Tabac: React.FC = () => {
         </section>
         <Image
           src="/blog/arret-tabac.png"
-          alt="Stop à la cigarette à Saint-Brieuc"
+          alt="Stop à la cigarette à Lanvollon"
           width={450}
           height={450}
           className="rounded-lg mx-auto"
@@ -427,7 +427,7 @@ const Tabac: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-tabac-saint-brieuc"
+                href="/blog/hypnose-tabac-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Combien de séances d&apos;hypnose pour arrêter de fumer ?
@@ -437,7 +437,7 @@ const Tabac: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/sucre-hypnose-saint-brieuc"
+                href="/blog/sucre-hypnose-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?
@@ -447,7 +447,7 @@ const Tabac: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-volonte-saint-brieuc"
+                href="/blog/hypnose-volonte-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et volonté : ce que dit la science

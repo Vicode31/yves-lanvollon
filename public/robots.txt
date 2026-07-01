@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://www.hypnose-saintbrieuc.fr/sitemap.xml
+Sitemap: https://www.hypnotherapeute-lanvollon-plouha.fr/sitemap.xml
 
 # Disallow admin or private directories if any
 # Disallow: /admin/

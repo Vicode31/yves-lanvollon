@@ -16,7 +16,7 @@ const description =
   "Envies de sucre, compulsions, grignotage émotionnel : comprendre ce que dit la neuroscience et pourquoi l'hypnose peut aider à modifier durablement la relation au sucre.";
 
 const ogImage =
-  "https://www.hypnose-saintbrieuc.fr/blog/sucre-hypnose.png";
+  "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sucre-hypnose.png";
 
 const keywords = [
   "hypnose sucre",
@@ -24,7 +24,7 @@ const keywords = [
   "envie de sucre",
   "comportement alimentaire",
   "compulsion sucrée",
-  "hypnothérapie Saint-Brieuc",
+  "hypnothérapie Lanvollon",
   "alimentation émotionnelle",
   "dopamine sucre",
 ];
@@ -33,16 +33,16 @@ export const metadata: Metadata = {
   title,
   description,
   keywords,
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical:
-      "https://www.hypnose-saintbrieuc.fr/blog/sucre-hypnose-saint-brieuc",
+      "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sucre-hypnose-lanvollon",
   },
   openGraph: {
     title,
     description,
-    url: "https://www.hypnose-saintbrieuc.fr/blog/sucre-hypnose-saint-brieuc",
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sucre-hypnose-lanvollon",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,
@@ -78,7 +78,7 @@ const SucreHypnose: React.FC = () => {
       <ArticleSchema
         title={title}
         description={description}
-        url="https://www.hypnose-saintbrieuc.fr/blog/sucre-hypnose-saint-brieuc"
+        url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sucre-hypnose-lanvollon"
         image={ogImage}
         datePublished="2026-05-07T00:00:00.000Z"
         keywords={keywords}
@@ -108,7 +108,7 @@ const SucreHypnose: React.FC = () => {
             Camille a 41 ans.
           </p>
           <p className="mb-4 text-gray-700 leading-relaxed">
-            Professeure des écoles à Saint-Brieuc, deux enfants, une vie bien
+            Professeure des écoles à Lanvollon, deux enfants, une vie bien
             remplie.
           </p>
           <p className="mb-4 text-gray-700 leading-relaxed">
@@ -398,7 +398,7 @@ const SucreHypnose: React.FC = () => {
 
           <Image
             src="/blog/consultation-sucre-hypnose.png"
-            alt="Consultation hypnose et sucre à Saint-Brieuc : comprendre la relation émotionnelle au sucre"
+            alt="Consultation hypnose et sucre à Lanvollon : comprendre la relation émotionnelle au sucre"
             width={1024}
             height={1024}
             className="rounded-lg w-full mb-10 lg:w-2/3 mx-auto"
@@ -648,7 +648,7 @@ const SucreHypnose: React.FC = () => {
 
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-semibold mb-6 max-md:text-center">
-            L&apos;approche du cabinet à Saint-Brieuc
+            L&apos;approche du cabinet à Lanvollon
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
             L&apos;accompagnement proposé repose sur plusieurs axes :
@@ -805,7 +805,7 @@ const SucreHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-tabac-saint-brieuc"
+                href="/blog/hypnose-tabac-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Combien de séances d&apos;hypnose pour arrêter de fumer ?
@@ -815,7 +815,7 @@ const SucreHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/sevrage-tabac-saint-brieuc"
+                href="/blog/sevrage-tabac-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et sevrage tabagique : entre science et expérience
@@ -825,7 +825,7 @@ const SucreHypnose: React.FC = () => {
             <li>
               →{" "}
               <a
-                href="/blog/hypnose-stress-saint-brieuc"
+                href="/blog/hypnose-stress-lanvollon"
                 className="text-vertSapin underline hover:no-underline font-medium"
               >
                 Hypnose et stress : une réponse naturelle validée par la science
