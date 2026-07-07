@@ -222,6 +222,13 @@ Vraiment une belle personne . ",
     pdp: "/pdp-google/mh.png",
     source: "resalib",
   },
+  {
+    quote:
+      "Mr Deniau.  est très professionnelle ,je recommande ce Mr.  j ai  eu que 2 rdv malheureusement avec lui, se qui a été trop court pour moi pour pouvoir réellement m aider dans mon maletre ,car le temp étais compter pour moi ,ma date examen étais trop proche.  j ai évidement échouer car un stress plus plus trop présent.  malgré tout il ma orienter vers un confrère a lui .  et je suis de retour parti pour des consultations jusqua mon prochain et dernier rattrapage examen en début septembre et j espére cette fois ci l obtenir.  je reviendrais vers vous,  je vous souhaite un belle étéMr Deniau.  Mme poignand Sonia",
+    name: "Sonia P.",
+    pdp: "/pdp-google/sp.png",
+    source: "resalib",
+  },
 ];
 
 export function getTestimonialsByTheme(theme: ServiceTheme): Testimonial[] {
