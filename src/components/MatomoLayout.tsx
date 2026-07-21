@@ -5,7 +5,7 @@ import { usePathname, useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
 
 const MATOMO_URL = "https://matomo.osteopathe-champigny-sur-marne.com/";
-const MATOMO_SITE_ID = "8";
+const MATOMO_SITE_ID = "14";
 
 const MatomoLayout = () => {
   const pathname = usePathname();
