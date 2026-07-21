@@ -62,7 +62,7 @@ export default function RootLayout({
     <html lang="fr" className="scroll-smooth!">
       <head>
         <SchemaOrg />
-        <GoogleTagManager gtmId="GTM-WKCZK7W5" />
+        <GoogleTagManager gtmId="GTM-TL7QKPZF" />
       </head>
       <body className={`${roboto_flex.className} antialiased`}>
         {children}

@@ -23,7 +23,7 @@ export default function Soins() {
   return (
     <section
       id="services"
-      className="py-16 md:py-24 bg-gradient-to-b from-green-50 to-gray-50 scroll-mt-24"
+      className="py-16 md:py-24 bg-linear-to-b from-green-50 to-gray-50 scroll-mt-24"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2
@@ -72,7 +72,7 @@ export default function Soins() {
         <li>Règlements : espèces ou chèque</li>
       </ul>
       <Image
-        src={"/cabinet-horizontal.JPG"}
+        src={"/cabinet-angle-vue-1.jpeg"}
         data-aos="zoom-in-left"
         alt="Cabinet d'hypnose à Lanvollon"
         width={500}
