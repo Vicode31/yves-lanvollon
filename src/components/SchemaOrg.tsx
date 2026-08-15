@@ -32,15 +32,8 @@ export default function SchemaOrg() {
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification",
-        dayOfWeek: [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-        ],
-        opens: "08:30",
+        dayOfWeek: ["Monday", "Thursday"],
+        opens: "13:00",
         closes: "20:00",
       },
     ],
@@ -103,7 +96,11 @@ export default function SchemaOrg() {
     },
 
     sameAs: [
+      // Fiche Google Business Lanvollon (kgmid /g/11zctnsfn6)
+      "https://www.google.com/search?kgmid=/g/11zctnsfn6&q=Yves+Deniau+Hypnoth%C3%A9rapeute&hl=fr",
       "https://www.linkedin.com/in/yvesdeniauhypnotherapeute",
+      // TODO Lanvollon : ce lien Resalib pointe vers la fiche Saint-Brieuc.
+      // Le remplacer par l'URL de la fiche Resalib LANVOLLON une fois créée (Phase 1 du plan).
       "https://www.resalib.fr/praticien/91951-yves-deniau-hypnotherapeute-saint-brieuc",
       "https://www.facebook.com/profile.php?id=61575927465588&locale=fr_FR",
       "https://www.instagram.com/yves_deniau_hypnotherapeute?igsh=MWlueHcxbTQ3dWNkdg%3D%3D&utm_source=qr",

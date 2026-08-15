@@ -57,7 +57,7 @@ export default function Contact() {
             </p>
             <p className={`text-2xl ${gotu.className}`}>Horaires :</p>
             <p className="mb-4 text-lg font-medium">
-              Lundi au Vendredi 8h30 à 20h00
+              Lundi et Jeudi de 13h00 à 20h00
             </p>
 
             <p

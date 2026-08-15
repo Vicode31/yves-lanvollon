@@ -66,7 +66,7 @@ export default function Footer() {
               </span>
             </button>
           </a>
-          <a href="https://www.google.com/search?q=Yves+Deniau+Praticien+en+hypnose&sca_esv=3bea377ccf617f2a&hl=fr-FR&biw=1440&bih=812&ei=KDX5Z4reHpSbkdUP2aTnyA8&ved=0ahUKEwiKkoXbpdCMAxWUTaQEHVnSGfkQ4dUDCBA&uact=5&oq=Yves+Deniau+Praticien+en+hypnose&gs_lp=Egxnd3Mtd2l6LXNlcnAiIFl2ZXMgRGVuaWF1IFByYXRpY2llbiBlbiBoeXBub3NlMggQABiABBiiBDIIEAAYgAQYogQyBRAAGO8FMggQABiABBiiBDIFEAAY7wVIvAVQkARYkARwAXgAkAEAmAFFoAFFqgEBMbgBA8gBAPgBAZgCAqACUsICCxAAGLADGKIEGIkFwgIIEAAYsAMY7wWYAwCIBgGQBgSSBwEyoAfaArIHATG4B0s&sclient=gws-wiz-serp">
+          <a href="https://www.google.com/search?kgmid=/g/11zctnsfn6&q=Yves+Deniau+Hypnoth%C3%A9rapeute&hl=fr">
             <button className="group flex justify-center p-2 rounded-md drop-shadow-xl bg-[#f15649] from-gray-800 text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413] cursor-pointer">
               <Image
                 src="/Google-Logo.png"

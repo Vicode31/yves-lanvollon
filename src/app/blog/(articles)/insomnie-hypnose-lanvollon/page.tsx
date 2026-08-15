@@ -1665,8 +1665,8 @@ const InsomniesHypnosePage: React.FC = () => {
           </p>
           <p className="text-gray-700 leading-relaxed">
             <strong>
-              Yves DENIAU reçoit à son cabinet de Lanvollon du lundi au
-              vendredi.
+              Yves DENIAU reçoit à son cabinet de Lanvollon le lundi et le jeudi
+              après-midi, de 13h à 20h.
             </strong>{" "}
             Les séances peuvent également se tenir à distance, en
             visioconférence.

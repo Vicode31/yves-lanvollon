@@ -59,7 +59,7 @@ export default function ArticleLayout({
       </div>
       <iframe
         title="Google Maps"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2642.958835649792!2d-2.7752711999999997!3d48.51485379999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87b1eb0a895f13e9%3A0xc09da9410e1d8c8a!2sYves%20Deniau%20Praticien%20en%20hypnose!5e0!3m2!1sfr!2sfr!4v1744385349524!5m2!1sfr!2sfr"
+        src="https://www.google.com/maps?q=Yves+Deniau+Hypnoth%C3%A9rapeute,+26+rue+des+Fontaines,+22290+Lanvollon&z=16&output=embed"
         width="50%"
         height="250em"
         allowFullScreen
