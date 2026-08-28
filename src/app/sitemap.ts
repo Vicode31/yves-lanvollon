@@ -16,6 +16,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { slug: "crise-angoisse-hypnose-lanvollon", lastModified: "2026-05-08" },
     { slug: "sucre-hypnose-lanvollon", lastModified: "2026-06-08" },
     { slug: "insomnie-hypnose-lanvollon", lastModified: "2026-06-07" },
+    {
+      slug: "pensees-envahissantes-et-si-lhypnose-pouvait-enfin-faire-silence",
+      lastModified: "2026-08-28",
+    },
   ];
 
   const staticPages = [
