@@ -159,6 +159,19 @@ const blogPosts = [
     image: "/blog/hypnose-reaprenait-sommeil.png",
     alt: "Insomnie et hypnose : réapprendre le sommeil à son cerveau",
   },
+  {
+    id: 12,
+    title:
+      "Peur de l'échec : et si l'hypnose changeait votre rapport à l'erreur ?",
+    description:
+      "Peur de l'échec, perfectionnisme, procrastination : comprendre les mécanismes de l'évitement et comment l'hypnose peut aider à agir malgré la peur.",
+    date: "16 septembre 2026",
+    publishedAt: "2026-09-16",
+    readTime: "23 min de lecture",
+    url: "/peur-de-lechec-et-si-lhypnose-changeait-votre-rapport-a-lerreur",
+    image: "/blog/peur-echec-hypnose.png",
+    alt: "Peur de l'échec et hypnose : changer son rapport à l'erreur",
+  },
 ];
 
 const sortedBlogPosts = [...blogPosts].sort((a, b) =>

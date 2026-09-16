@@ -14,6 +14,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { slug: "hypnose-tabac-lanvollon", lastModified: "2025-07-21" },
     { slug: "deuil-amoureux-hypnose-lanvollon", lastModified: "2026-03-21" },
     { slug: "crise-angoisse-hypnose-lanvollon", lastModified: "2026-05-08" },
+    {
+      slug: "peur-de-lechec-et-si-lhypnose-changeait-votre-rapport-a-lerreur",
+      lastModified: "2026-09-16",
+    },
     { slug: "sucre-hypnose-lanvollon", lastModified: "2026-06-08" },
     { slug: "insomnie-hypnose-lanvollon", lastModified: "2026-06-07" },
     {
