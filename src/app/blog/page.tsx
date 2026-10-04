@@ -11,11 +11,11 @@ import Image from "next/image";
 import Link from "next/link";
 
 export const metadata: Metadata = {
-  title: "Blog Hypnothérapie à Saint-Brieuc | Yves Deniau",
+  title: "Blog Hypnothérapie à Lanvollon | Yves Deniau",
   description:
-    "Articles sur l'hypnothérapie par Yves Deniau, hypnothérapeute à Saint-Brieuc : stress, tabac, phobies, deuil amoureux, crises d'angoisse.",
+    "Articles sur l'hypnothérapie par Yves Deniau, hypnothérapeute à Lanvollon : stress, tabac, phobies, deuil amoureux, crises d'angoisse.",
   alternates: {
-    canonical: "https://www.hypnose-saintbrieuc.fr/blog",
+    canonical: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog",
   },
 };
 
@@ -28,22 +28,22 @@ const blogPosts = [
     date: "27 janv. 2024",
     publishedAt: "2024-01-27",
     readTime: "3 min de lecture",
-    url: "/hypnose-definition-saint-brieuc",
+    url: "/hypnose-definition-lanvollon",
     image: "/blog/montre-gousset.png",
     alt: "Hypnose et définition",
   },
   {
     id: 2,
     title:
-      " Hypnose, Conscience Modifiée et Éthique à Saint-Brieuc : Ce que Révèle la Science",
+      " Hypnose, Conscience Modifiée et Éthique à Lanvollon : Ce que Révèle la Science",
     description:
       "Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l'hypnose thérapeutique respecte toujours le libre arbitre du patient.",
     date: "3 mars 2024",
     publishedAt: "2024-03-03",
     readTime: "4 min de lecture",
-    url: "/hypnose-volonte-saint-brieuc",
+    url: "/hypnose-volonte-lanvollon",
     image: "/blog/irm-hypnose.png",
-    alt: "Hypnose Saint-Brieuc",
+    alt: "Hypnose Lanvollon",
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ const blogPosts = [
     date: "15 juin 2024",
     publishedAt: "2024-06-15",
     readTime: "5 min de lecture",
-    url: "/sevrage-tabac-saint-brieuc",
+    url: "/sevrage-tabac-lanvollon",
     image: "/blog/arret-tabac.png",
     alt: "Hypnose et arret du tabac",
   },
@@ -65,7 +65,7 @@ const blogPosts = [
     date: "20 sept. 2024",
     publishedAt: "2024-09-20",
     readTime: "5 min de lecture",
-    url: "/hypnose-spectacle-saint-brieuc",
+    url: "/hypnose-spectacle-lanvollon",
     image: "/blog/hypnose-spectacle.png",
     alt: "Hypnose de spectacle et thérapeutique",
   },
@@ -77,7 +77,7 @@ const blogPosts = [
     date: "7 janv. 2025",
     publishedAt: "2025-01-07",
     readTime: "5 min de lecture",
-    url: "/hypnose-stress-saint-brieuc",
+    url: "/hypnose-stress-lanvollon",
     image: "/blog/hypnose-stress-bg.png",
     alt: "Hypnose et Stress",
   },
@@ -90,7 +90,7 @@ const blogPosts = [
     date: "15 fev. 2025",
     publishedAt: "2025-02-15",
     readTime: "3 min de lecture",
-    url: "/hypnose-tabac-saint-brieuc",
+    url: "/hypnose-tabac-lanvollon",
     image: "/blog/dessin-tabac.png",
     alt: "Hypnose arrêt du tabac",
   },
@@ -103,7 +103,7 @@ const blogPosts = [
     date: "21 mars 2026",
     publishedAt: "2026-03-21",
     readTime: "12 min de lecture",
-    url: "/deuil-amoureux-hypnose-saint-brieuc",
+    url: "/deuil-amoureux-hypnose-lanvollon",
     image: "/blog/coeur-deuil-amoureux.png",
     alt: "Infographie des étapes du deuil amoureux",
   },
@@ -129,7 +129,7 @@ const blogPosts = [
     date: "8 mai 2026",
     publishedAt: "2026-05-08",
     readTime: "14 min de lecture",
-    url: "/crise-angoisse-hypnose-saint-brieuc",
+    url: "/crise-angoisse-hypnose-lanvollon",
     image: "/blog/comment-cerveau-fabrique-crise-angoisse.png",
     alt: "Schéma : comment le cerveau fabrique une crise d'angoisse",
   },
@@ -142,7 +142,7 @@ const blogPosts = [
     date: "15 mai 2026",
     publishedAt: "2026-05-15",
     readTime: "23 min de lecture",
-    url: "/sucre-hypnose-saint-brieuc",
+    url: "/sucre-hypnose-lanvollon",
     image: "/blog/sucre-hypnose.png",
     alt: "Hypnose et sucre : se libérer des envies compulsives",
   },
@@ -155,7 +155,7 @@ const blogPosts = [
     date: "7 juin 2026",
     publishedAt: "2026-06-07",
     readTime: "12 min de lecture",
-    url: "/insomnie-hypnose-saint-brieuc",
+    url: "/insomnie-hypnose-lanvollon",
     image: "/blog/hypnose-reaprenait-sommeil.png",
     alt: "Insomnie et hypnose : réapprendre le sommeil à son cerveau",
   },
@@ -177,7 +177,7 @@ const blogPosts = [
     title:
       "Lâcher prise : pourquoi c'est si difficile, et comment l'hypnose agit",
     description:
-      "Besoin de contrôle, ruminations, difficulté à lâcher prise : comprendre les mécanismes en jeu et l’accompagnement par l’hypnose à Saint-Brieuc.",
+      "Besoin de contrôle, ruminations, difficulté à lâcher prise : comprendre les mécanismes en jeu et l’accompagnement par l’hypnose à Lanvollon.",
     date: "4 octobre 2026",
     publishedAt: "2026-10-04",
     readTime: "22 min de lecture",
@@ -212,7 +212,7 @@ export default function Blog() {
                   <Avatar className="w-8 h-8">
                     <AvatarImage
                       src="/yves-deniau.jpg"
-                      alt="Hypnothérapeute Saint-Brieuc"
+                      alt="Hypnothérapeute Lanvollon"
                     />
                     <AvatarFallback>YD</AvatarFallback>
                   </Avatar>

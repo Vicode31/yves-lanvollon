@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+      "Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
     url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-definition-lanvollon",
     siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+      "Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
     images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-cabinet.jpeg"],
   },
 };
@@ -55,7 +55,7 @@ const HypnoseDefinitionArticle: React.FC = () => {
     <>
       <ArticleSchema
         title="Qu'est-ce que l'hypnose ? Science et clinique | Lanvollon"
-        description="Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée."
+        description="Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée."
         url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-definition-lanvollon"
         image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-cabinet.jpeg"
         datePublished="2025-02-15T00:00:00.000Z"

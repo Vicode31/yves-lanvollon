@@ -5,7 +5,7 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "Hypnose et volonté : ce que dit la science | Lanvollon",
   description:
-    "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
+    "Hypnose Lanvollon – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
   keywords: [
     "hypnose",
     "hypnothérapie",
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hypnose et volonté : ce que dit la science | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
+      "Hypnose Lanvollon – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
     url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-volonte-lanvollon",
     siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Hypnose et volonté : ce que dit la science | Lanvollon",
     description:
-      "Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
+      "Hypnose Lanvollon – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l&apos;hypnose thérapeutique respecte toujours le libre arbitre du patient.",
     images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/irm-hypnose.png"],
   },
 };
@@ -53,7 +53,7 @@ const HypnoseVolonte = () => {
     <>
       <ArticleSchema
         title="Hypnose et volonté : ce que dit la science | Lanvollon"
-        description="Hypnose Saint Brieuc – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l'hypnose thérapeutique respecte toujours le libre arbitre du patient."
+        description="Hypnose Lanvollon – Découvrez les vérités scientifiques sur la conscience modifiée et pourquoi l'hypnose thérapeutique respecte toujours le libre arbitre du patient."
         url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/hypnose-volonte-lanvollon"
         image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/irm-hypnose.png"
         datePublished="2025-02-15T00:00:00.000Z"

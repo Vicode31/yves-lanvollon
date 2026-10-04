@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hypnose et sevrage tabagique : Entre science et expérience",
     description:
-      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+      "Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
     url: "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sevrage-tabac-lanvollon",
     siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Hypnose et sevrage tabagique : Entre science et expérience",
     description:
-      "Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
+      "Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée.",
     images: ["https://www.hypnotherapeute-lanvollon-plouha.fr/blog/arret-tabac.png"],
   },
 };
@@ -60,7 +60,7 @@ const Tabac: React.FC = () => {
     <>
       <ArticleSchema
         title="Hypnose et sevrage tabagique : Entre science et expérience"
-        description="Hypnose Saint Brieuc – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée. Aujourd'hui, je vous partage ces connaissances — non pas comme un simple relai d'information, mais comme un professionnel de santé engagé dans l'accompagnement humain et rigoureux du sevrage."
+        description="Hypnose Lanvollon – Et c'est en étudiant les données scientifiques autour de l'hypnose pour l'arrêt du tabac que j'ai découvert un champ thérapeutique d'une richesse insoupçonnée. Aujourd'hui, je vous partage ces connaissances — non pas comme un simple relai d'information, mais comme un professionnel de santé engagé dans l'accompagnement humain et rigoureux du sevrage."
         url="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/sevrage-tabac-lanvollon"
         image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/arret-tabac.png"
         datePublished="2025-02-15T00:00:00.000Z"

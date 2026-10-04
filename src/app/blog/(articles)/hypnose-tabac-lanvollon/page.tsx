@@ -7,9 +7,9 @@ export const metadata: Metadata = {
   description:
     "Combien de séances d'hypnose pour arrêter de fumer ? L'hypnose cible l'inconscient pour vaincre la dépendance au tabac. Yves Deniau à Lanvollon.",
   keywords: [
-    "hypnose tabac saint brieuc",
+    "hypnose tabac lanvollon",
     "séances hypnose arrêt tabac",
-    "hypnothérapeute tabac saint brieuc",
+    "hypnothérapeute tabac lanvollon",
     "nombre séances hypnose sevrage",
     "hypnothérapie dépendance tabac",
     "arrêt tabac hypnose côtes armor",
@@ -57,9 +57,9 @@ const HypnoseTabac = () => {
         image="https://www.hypnotherapeute-lanvollon-plouha.fr/blog/dessin-tabac.png"
         datePublished="2025-02-15T00:00:00.000Z"
         keywords={[
-          "hypnose tabac saint brieuc",
+          "hypnose tabac lanvollon",
           "séances hypnose arrêt tabac",
-          "hypnothérapeute tabac saint brieuc",
+          "hypnothérapeute tabac lanvollon",
           "nombre séances hypnose sevrage",
           "hypnothérapie dépendance tabac",
         ]}

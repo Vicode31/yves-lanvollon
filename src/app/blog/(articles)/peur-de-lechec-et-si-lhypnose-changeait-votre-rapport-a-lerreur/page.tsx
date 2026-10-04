@@ -16,8 +16,8 @@ const description =
   "Peur de l'échec, perfectionnisme, procrastination : comprendre les mécanismes de l'évitement et comment l'hypnose peut aider à agir malgré la peur.";
 
 const slug = "peur-de-lechec-et-si-lhypnose-changeait-votre-rapport-a-lerreur";
-const url = `https://www.hypnose-saintbrieuc.fr/blog/${slug}`;
-const ogImage = "https://www.hypnose-saintbrieuc.fr/blog/peur-echec-hypnose.png";
+const url = `https://www.hypnotherapeute-lanvollon-plouha.fr/blog/${slug}`;
+const ogImage = "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/peur-echec-hypnose.png";
 const datePublished = "2026-09-16T00:00:00.000Z";
 
 const keywords = [
@@ -27,7 +27,7 @@ const keywords = [
   "perfectionnisme",
   "procrastination",
   "anxiété de performance",
-  "Saint-Brieuc",
+  "Lanvollon",
 ];
 
 const resalibUrl =
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   title,
   description,
   keywords,
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical: url,
   },
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     title,
     description,
     url,
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,
@@ -127,7 +127,7 @@ const articleBlocks: ArticleBlock[] = [
       "Ses mécanismes sont neurobiologiques : la peur de l'échec active les mêmes circuits cérébraux que la peur physique, l'amygdale, l'axe du stress, la réponse de fuite ou de sidération.",
       "La peur de l'échec est presque toujours liée à une équation inconsciente : *échouer = être insuffisant*, et non simplement *ne pas réussir*.",
       "L'hypnose intervient là où la logique ne suffit pas : en modifiant cette équation au niveau des automatismes, et pas uniquement des convictions conscientes.",
-      "À Saint-Brieuc, Yves DENIAU accompagne régulièrement des personnes bloquées par cette peur, souvent très capables objectivement, en travaillant sur les schémas anciens qui alimentent l'évitement.",
+      "À Lanvollon, Yves DENIAU accompagne régulièrement des personnes bloquées par cette peur, souvent très capables objectivement, en travaillant sur les schémas anciens qui alimentent l'évitement.",
       "Le résultat visé n'est pas \"ne plus jamais avoir peur\" : il s'agit de récupérer la capacité d'agir *avec* ses peurs, plutôt que d'être gouverné par elles."
     ]
   },
@@ -331,7 +331,7 @@ const articleBlocks: ArticleBlock[] = [
   },
   {
     "type": "h2",
-    "text": "Ce que j'observe en consultation : Yves DENIAU, hypnothérapeute à Saint-Brieuc"
+    "text": "Ce que j'observe en consultation : Yves DENIAU, hypnothérapeute à Lanvollon"
   },
   {
     "type": "p",
@@ -703,11 +703,11 @@ const articleBlocks: ArticleBlock[] = [
   },
   {
     "type": "h2",
-    "text": "L'approche du cabinet à Saint-Brieuc"
+    "text": "L'approche du cabinet à Lanvollon"
   },
   {
     "type": "p",
-    "text": "Yves DENIAU, hypnothérapeute à Saint-Brieuc, propose un accompagnement spécifique pour les personnes bloquées par la peur de l'échec, qu'elles soient dans un contexte professionnel (projet à lancer, prise de responsabilité, reconversion), personnel (relation, projet de vie) ou artistique (création, exposition publique)."
+    "text": "Yves DENIAU, hypnothérapeute à Lanvollon, propose un accompagnement spécifique pour les personnes bloquées par la peur de l'échec, qu'elles soient dans un contexte professionnel (projet à lancer, prise de responsabilité, reconversion), personnel (relation, projet de vie) ou artistique (création, exposition publique)."
   },
   {
     "type": "ol",
@@ -824,7 +824,7 @@ const articleBlocks: ArticleBlock[] = [
       {
         "question": "Peut-on travailler sur la peur de l'échec en visioconférence ?",
         "answer": [
-          "Oui. Les séances d'hypnose à distance, en visioconférence, sont tout à fait efficaces pour ce type de travail. La seule condition est d'avoir un espace calme et confortable où vous pouvez fermer les yeux et être au calme pendant la durée de la séance. Pour les personnes qui habitent loin de Saint-Brieuc ou dont le travail ou la vie de famille rend les déplacements difficiles, c'est une option pleinement valable."
+          "Oui. Les séances d'hypnose à distance, en visioconférence, sont tout à fait efficaces pour ce type de travail. La seule condition est d'avoir un espace calme et confortable où vous pouvez fermer les yeux et être au calme pendant la durée de la séance. Pour les personnes qui habitent loin de Lanvollon ou dont le travail ou la vie de famille rend les déplacements difficiles, c'est une option pleinement valable."
         ]
       },
       {
@@ -1013,7 +1013,7 @@ const articleBlocks: ArticleBlock[] = [
       "Beaucoup de problèmes qui maintiennent cette peur ne viennent pas d'un manque de volonté ou de talent. Ils viennent d'automatismes installés, des réponses apprises, souvent très tôt, qui n'ont plus lieu d'être mais qui continuent à fonctionner faute d'avoir été mises à jour. L'hypnose permet de dialoguer avec ces automatismes sans lutter contre eux. Au lieu de forcer, on comprend, on ajuste, on transforme. Le changement qui s'opère de cette façon est plus doux, plus profond, plus durable.",
       "Il n'existe pas de garantie qu'un projet réussira. Personne ne peut vous la donner, ni un coach, ni un thérapeute, ni l'hypnose. Ce que l'on peut modifier, c'est votre rapport à cette absence de garantie. Votre capacité à agir sans filet. Votre façon de vous définir, que ça marche ou pas.",
       "Si vous attendez d'être sûr avant de vous lancer, dans un projet, une reconversion, une relation, une création, sachez que la certitude que vous attendez n'arrivera pas. Elle ne précède pas l'action, elle en est le résultat.",
-      "**Yves DENIAU reçoit à son cabinet de Saint-Brieuc du lundi au vendredi.** Les séances peuvent également se tenir à distance, en visioconférence. Pour prendre rendez-vous, rendez-vous sur [le site du cabinet](https://www.hypnose-saintbrieuc.fr/)."
+      "**Yves DENIAU reçoit à son cabinet de Lanvollon du lundi au vendredi.** Les séances peuvent également se tenir à distance, en visioconférence. Pour prendre rendez-vous, rendez-vous sur [le site du cabinet](https://www.hypnotherapeute-lanvollon-plouha.fr/)."
     ]
   }
 ];

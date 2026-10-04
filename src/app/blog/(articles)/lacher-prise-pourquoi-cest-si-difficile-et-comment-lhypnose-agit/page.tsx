@@ -13,7 +13,7 @@ import React from "react";
 const post = {
   title: "Lâcher prise : pourquoi c'est si difficile, et comment l'hypnose agit",
   description:
-    "Besoin de contrôle, ruminations, difficulté à lâcher prise : comprendre les mécanismes en jeu et l’accompagnement par l’hypnose à Saint-Brieuc.",
+    "Besoin de contrôle, ruminations, difficulté à lâcher prise : comprendre les mécanismes en jeu et l’accompagnement par l’hypnose à Lanvollon.",
   slug: "lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit",
   image: "/blog/lacher-prise-en-douceur.webp",
   alt: "Un carnet présente les ressources associées au lâcher prise.",
@@ -29,10 +29,10 @@ const metaTitle = "Lâcher prise : comprendre et agir avec l’hypnose";
 const description = post.description;
 
 const slug = post.slug;
-const url = `https://www.hypnose-saintbrieuc.fr/blog/${slug}`;
-const ogImage = `https://www.hypnose-saintbrieuc.fr${post.image}`;
+const url = `https://www.hypnotherapeute-lanvollon-plouha.fr/blog/${slug}`;
+const ogImage = `https://www.hypnotherapeute-lanvollon-plouha.fr${post.image}`;
 
-const keywords = ["lâcher prise", "hypnose lâcher prise", "besoin de contrôle", "ruminations", "Saint-Brieuc"];
+const keywords = ["lâcher prise", "hypnose lâcher prise", "besoin de contrôle", "ruminations", "Lanvollon"];
 
 const resalibUrl =
   "https://www.resalib.fr/praticien/91951-yves-deniau-hypnotherapeute-saint-brieuc#newrdvmodal";
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   title: metaTitle,
   description,
   keywords,
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical: url,
   },
@@ -49,7 +49,7 @@ export const metadata: Metadata = {
     title,
     description,
     url,
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,

@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     "Lanvollon",
     "gestion stress hypnose",
     "hypnose anxiété",
-    "hypnothérapeute stress saint brieuc",
+    "hypnothérapeute stress lanvollon",
   ],
   authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
@@ -64,7 +64,7 @@ const HypnoseStress: React.FC = () => {
           "Lanvollon",
           "gestion stress hypnose",
           "hypnose anxiété",
-          "hypnothérapeute stress saint brieuc",
+          "hypnothérapeute stress lanvollon",
         ]}
       />
       <div className="max-w-4xl mx-auto px-6 py-12 text-gray-800 text-justify">

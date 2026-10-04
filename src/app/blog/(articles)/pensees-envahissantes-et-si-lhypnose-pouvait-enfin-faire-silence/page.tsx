@@ -17,10 +17,10 @@ const description =
 
 const slug = "pensees-envahissantes-et-si-lhypnose-pouvait-enfin-faire-silence";
 
-const url = `https://www.hypnose-saintbrieuc.fr/blog/${slug}`;
+const url = `https://www.hypnotherapeute-lanvollon-plouha.fr/blog/${slug}`;
 
 const ogImage =
-  "https://www.hypnose-saintbrieuc.fr/blog/pensees-envahissantes-relation.png";
+  "https://www.hypnotherapeute-lanvollon-plouha.fr/blog/pensees-envahissantes-relation.png";
 
 const keywords = [
   "pensées envahissantes",
@@ -28,7 +28,7 @@ const keywords = [
   "pensées intrusives",
   "hypnose pensées envahissantes",
   "hypnothérapie rumination",
-  "Saint-Brieuc",
+  "Lanvollon",
   "anxiété",
   "autohypnose",
 ];
@@ -40,7 +40,7 @@ export const metadata: Metadata = {
   title,
   description,
   keywords,
-  authors: [{ name: "Yves DENIAU", url: "https://www.hypnose-saintbrieuc.fr" }],
+  authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
     canonical: url,
   },
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     title,
     description,
     url,
-    siteName: "Hypnose Saint-Brieuc - Yves Deniau",
+    siteName: "Hypnose Lanvollon - Yves Deniau",
     images: [
       {
         url: ogImage,
@@ -130,7 +130,7 @@ const articleBlocks: ArticleBlock[] = [
       "Le paradoxe central : tenter de supprimer une pensée l'amplifie — c'est le \"white bear effect\", démontré expérimentalement depuis 1987",
       "Les pensées envahissantes sont maintenues par des mécanismes automatiques profonds que la volonté consciente ne peut pas directement atteindre",
       "L'hypnose agit sur ces mécanismes en modifiant le réseau du mode par défaut, en réduisant la fusion pensée-réalité, et en créant une relation d'observateur plutôt que de prisonnier",
-      "Yves Deniau, hypnothérapeute à Saint-Brieuc, observe que la plupart des personnes qui souffrent de pensées envahissantes ont développé une peur de leurs propres pensées — et que c'est cette peur, plus que les pensées elles-mêmes, qui entretient le problème",
+      "Yves Deniau, hypnothérapeute à Lanvollon, observe que la plupart des personnes qui souffrent de pensées envahissantes ont développé une peur de leurs propres pensées — et que c'est cette peur, plus que les pensées elles-mêmes, qui entretient le problème",
       "Des outils concrets — ancrages, recul hypnotique, techniques de défusion — permettent de modifier cette relation dès les premières séances",
     ],
   },
@@ -429,7 +429,7 @@ const articleBlocks: ArticleBlock[] = [
   },
   {
     type: "h2",
-    text: "Ce que j'observe en consultation — Yves DENIAU, Hypnothérapeute à Saint-Brieuc",
+    text: "Ce que j'observe en consultation — Yves DENIAU, Hypnothérapeute à Lanvollon",
   },
   {
     type: "h3",
@@ -1117,7 +1117,7 @@ const articleBlocks: ArticleBlock[] = [
   },
   {
     type: "p",
-    text: "Le cabinet est à Saint-Brieuc. La prise de rendez-vous se fait directement en ligne en cliquant sur le bouton ci-dessous :",
+    text: "Le cabinet est à Lanvollon. La prise de rendez-vous se fait directement en ligne en cliquant sur le bouton ci-dessous :",
   },
 ];
 

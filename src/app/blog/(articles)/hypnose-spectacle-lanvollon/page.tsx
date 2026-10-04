@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     "Lanvollon",
     "hypnose thérapeutique",
     "différence hypnose spectacle thérapeutique",
-    "hypnothérapeute saint brieuc",
+    "hypnothérapeute lanvollon",
   ],
   authors: [{ name: "Yves DENIAU", url: "https://www.hypnotherapeute-lanvollon-plouha.fr" }],
   alternates: {
@@ -62,7 +62,7 @@ const HypnoseSpectacle: React.FC = () => {
           "Lanvollon",
           "hypnose thérapeutique",
           "différence hypnose spectacle thérapeutique",
-          "hypnothérapeute saint brieuc",
+          "hypnothérapeute lanvollon",
         ]}
       />
       <article className="max-w-4xl mx-auto px-6 py-12 text-gray-800 text-justify">
