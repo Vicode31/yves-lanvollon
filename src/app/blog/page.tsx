@@ -172,6 +172,19 @@ const blogPosts = [
     image: "/blog/peur-echec-hypnose.png",
     alt: "Peur de l'échec et hypnose : changer son rapport à l'erreur",
   },
+  {
+    id: 13,
+    title:
+      "Lâcher prise : pourquoi c'est si difficile, et comment l'hypnose agit",
+    description:
+      "Besoin de contrôle, ruminations, difficulté à lâcher prise : comprendre les mécanismes en jeu et l’accompagnement par l’hypnose à Saint-Brieuc.",
+    date: "4 octobre 2026",
+    publishedAt: "2026-10-04",
+    readTime: "22 min de lecture",
+    url: "/lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit",
+    image: "/blog/lacher-prise-en-douceur.webp",
+    alt: "Un carnet présente les ressources associées au lâcher prise.",
+  },
 ];
 
 const sortedBlogPosts = [...blogPosts].sort((a, b) =>

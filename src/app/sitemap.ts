@@ -4,7 +4,7 @@ import { MetadataRoute } from "next";
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://www.hypnotherapeute-lanvollon-plouha.fr";
 
-  // Simulation d'articles dynamiques (à remplacer par un fetch depuis une API ou BDD)
+  // Articles disponibles dans src/app/blog/(articles).
   const posts = [
     { slug: "hypnose-definition-lanvollon", lastModified: "2024-01-27" },
     { slug: "hypnose-volonte-lanvollon", lastModified: "2024-03-03" },
@@ -23,6 +23,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     {
       slug: "pensees-envahissantes-et-si-lhypnose-pouvait-enfin-faire-silence",
       lastModified: "2026-08-28",
+    },
+    {
+      slug: "lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit",
+      lastModified: "2026-10-04",
     },
   ];
 
