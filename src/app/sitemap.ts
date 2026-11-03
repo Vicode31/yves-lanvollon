@@ -28,6 +28,10 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       slug: "lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit",
       lastModified: "2026-10-04",
     },
+    {
+      slug: "burn-out-et-si-lhypnose-aidait-la-ou-le-repos-ne-suffit-pas",
+      lastModified: "2026-11-03",
+    },
   ];
 
   const staticPages = [

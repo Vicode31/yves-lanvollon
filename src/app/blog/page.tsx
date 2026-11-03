@@ -185,6 +185,18 @@ const blogPosts = [
     image: "/blog/lacher-prise-en-douceur.webp",
     alt: "Un carnet présente les ressources associées au lâcher prise.",
   },
+  {
+    id: 14,
+    title: "Burn-out : et si l'hypnose aidait là où le repos ne suffit pas",
+    description:
+      "Épuisement professionnel, surfonctionnement et récupération : comprendre le burn-out et la place de l’hypnose en complément du suivi médical à Lanvollon.",
+    date: "3 novembre 2026",
+    publishedAt: "2026-11-03",
+    readTime: "23 min de lecture",
+    url: "/burn-out-et-si-lhypnose-aidait-la-ou-le-repos-ne-suffit-pas",
+    image: "/blog/burnout-trois-dimensions.webp",
+    alt: "Les trois dimensions du burn-out : épuisement émotionnel, dépersonnalisation et perte d’accomplissement personnel.",
+  },
 ];
 
 const sortedBlogPosts = [...blogPosts].sort((a, b) =>
