@@ -541,41 +541,6 @@ const DeuilAmoureuxHypnose: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/crise-angoisse-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
-              </a>{" "}
-              — La douleur du deuil amoureux peut déclencher des crises d&apos;angoisse — les mécanismes sont proches.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Rupture et stress chronique vont souvent de pair. Comment l&apos;hypnose aide à désamorcer les deux.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/insomnie-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?
-              </a>{" "}
-              — Le deuil amoureux perturbe fréquemment le sommeil. L&apos;hypnose peut aider à récupérer.
-            </li>
-          </ul>
-        </section>
 
         <div className="border-t border-gray-200 my-10" />
 

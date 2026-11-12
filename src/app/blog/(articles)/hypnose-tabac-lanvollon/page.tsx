@@ -510,41 +510,6 @@ const HypnoseTabac = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/sevrage-tabac-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et sevrage tabagique : entre science et expérience
-              </a>{" "}
-              — Le regard scientifique complet sur ce que l&apos;hypnose fait réellement à la dépendance au tabac.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/sucre-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?
-              </a>{" "}
-              — Les mécanismes de la dépendance au sucre sont proches de ceux du tabac — l&apos;hypnose y répond aussi.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-definition-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Qu&apos;est-ce que l&apos;hypnose ? Science et clinique
-              </a>{" "}
-              — Comprendre les fondements de l&apos;hypnothérapie avant de se lancer.
-            </li>
-          </ul>
-        </section>
       </article>
     </>
   );

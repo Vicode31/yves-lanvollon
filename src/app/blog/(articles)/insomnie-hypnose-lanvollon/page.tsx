@@ -1675,41 +1675,6 @@ const InsomniesHypnosePage: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Le stress chronique est l&apos;une des premières causes d&apos;insomnie. L&apos;hypnose agit sur les deux simultanément.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/crise-angoisse-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
-              </a>{" "}
-              — Anxiété nocturne et hypervigilance partagent les mêmes mécanismes que les crises d&apos;angoisse.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/sucre-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?
-              </a>{" "}
-              — La consommation de sucre en soirée perturbe la qualité du sommeil — l&apos;hypnose peut aider sur ce point aussi.
-            </li>
-          </ul>
-        </section>
       </div>
     </>
   );

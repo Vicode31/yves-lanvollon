@@ -379,7 +379,7 @@ const CriseAngoisseHypnose: React.FC = () => {
 
         <section className="mb-12">
           <h2 className="text-xl md:text-2xl font-semibold mb-6 max-md:text-center">
-            Ce que j&apos;observe régulièrement en consultation d'hypnothérapie
+            Ce que j&apos;observe régulièrement en consultation d&apos;hypnothérapie
             à Lanvollon :
           </h2>
           <p className="mb-4 text-gray-700 leading-relaxed">
@@ -932,41 +932,6 @@ const CriseAngoisseHypnose: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Crises d&apos;angoisse et stress chronique partagent les mêmes racines physiologiques.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-volonte-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et volonté : ce que dit la science
-              </a>{" "}
-              — Comprendre pourquoi l&apos;angoisse ne répond pas à la volonté, et ce que l&apos;hypnose change.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/insomnie-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?
-              </a>{" "}
-              — L&apos;anxiété nocturne et les crises d&apos;angoisse perturbent souvent le sommeil en profondeur.
-            </li>
-          </ul>
-        </section>
 
         <div className="border-t border-gray-200 my-10" />
 

@@ -431,45 +431,6 @@ const HypnoseDefinitionArticle: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-volonte-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et volonté : ce que dit la science
-              </a>{" "}
-              — L&apos;hypnose modifie-t-elle la conscience ? Ce que la
-              neuroscience révèle sur le libre arbitre et l&apos;éthique
-              thérapeutique.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-spectacle-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnothérapie vs hypnose de spectacle
-              </a>{" "}
-              — Pourquoi l&apos;hypnothérapie clinique n&apos;a rien à voir avec
-              les shows télévisés.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Comment l&apos;hypnose agit concrètement sur le système nerveux
-              pour réduire le stress chronique.
-            </li>
-          </ul>
-        </section>
       </article>
     </>
   );

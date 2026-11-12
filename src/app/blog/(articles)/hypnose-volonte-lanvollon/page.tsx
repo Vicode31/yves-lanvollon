@@ -446,41 +446,6 @@ const HypnoseVolonte = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-definition-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Qu&apos;est-ce que l&apos;hypnose ? Science et clinique
-              </a>{" "}
-              — Les bases scientifiques et cliniques de l&apos;état hypnotique, démystifié.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/crise-angoisse-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
-              </a>{" "}
-              — Le lien entre volonté, système nerveux autonome et crises d&apos;angoisse.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-spectacle-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnothérapie vs hypnose de spectacle
-              </a>{" "}
-              — Comprendre les différences entre l&apos;hypnose éthique et la manipulation de scène.
-            </li>
-          </ul>
-        </section>
 
         <footer className="pt-6 text-sm text-gray-600 border-t border-gray-300">
           <p className="mb-4">

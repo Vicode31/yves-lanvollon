@@ -3,6 +3,8 @@ interface ArticleSchemaProps {
   description: string;
   url: string;
   image: string;
+  imageWidth?: number;
+  imageHeight?: number;
   datePublished: string;
   dateModified?: string;
   keywords?: string[];
@@ -13,6 +15,8 @@ export default function ArticleSchema({
   description,
   url,
   image,
+  imageWidth = 1200,
+  imageHeight = 630,
   datePublished,
   dateModified,
   keywords = []
@@ -25,8 +29,8 @@ export default function ArticleSchema({
     image: {
       "@type": "ImageObject",
       url: image,
-      width: 1200,
-      height: 630
+      width: imageWidth,
+      height: imageHeight
     },
     url: url,
     datePublished: datePublished,

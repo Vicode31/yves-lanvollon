@@ -372,41 +372,6 @@ const HypnoseStress: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/crise-angoisse-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Crises d&apos;angoisse : pourquoi l&apos;hypnose agit là où la volonté échoue
-              </a>{" "}
-              — Stress chronique et crises d&apos;angoisse sont souvent liés — comprendre le mécanisme pour s&apos;en libérer.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/insomnie-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Insomnie : et si l&apos;hypnose réapprenait le sommeil à votre cerveau ?
-              </a>{" "}
-              — Le stress est l&apos;une des premières causes d&apos;insomnie chronique. L&apos;hypnose agit sur les deux.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/deuil-amoureux-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Deuil amoureux et hypnose : se reconstruire
-              </a>{" "}
-              — Rupture, ruminations, épuisement émotionnel : comment l&apos;hypnose aide à tourner la page.
-            </li>
-          </ul>
-        </section>
       </div>
     </>
   );

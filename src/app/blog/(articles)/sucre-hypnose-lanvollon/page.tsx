@@ -799,41 +799,6 @@ const SucreHypnose: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-tabac-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Combien de séances d&apos;hypnose pour arrêter de fumer ?
-              </a>{" "}
-              — La dépendance au tabac suit les mêmes circuits de récompense que le sucre — ce qui fonctionne pour l&apos;un vaut pour l&apos;autre.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/sevrage-tabac-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et sevrage tabagique : entre science et expérience
-              </a>{" "}
-              — Le mécanisme d&apos;addiction expliqué en détail, et comment l&apos;hypnose le court-circuite.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Le stress est souvent le déclencheur des comportements compulsifs alimentaires. L&apos;hypnose traite la racine.
-            </li>
-          </ul>
-        </section>
 
         <div className="border-t border-gray-200 my-10" />
 

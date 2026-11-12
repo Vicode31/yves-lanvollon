@@ -331,41 +331,6 @@ const HypnoseSpectacle: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-definition-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Qu&apos;est-ce que l&apos;hypnose ? Science et clinique
-              </a>{" "}
-              — Une exploration scientifique et clinique de l&apos;état hypnotique et de ses mécanismes réels.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-volonte-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et volonté : ce que dit la science
-              </a>{" "}
-              — La question du libre arbitre sous hypnose, démystifiée par la neuroscience.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-stress-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et stress : une réponse naturelle validée par la science
-              </a>{" "}
-              — Découvrir concrètement ce que l&apos;hypnothérapie peut traiter au quotidien.
-            </li>
-          </ul>
-        </section>
       </article>
     </>
   );

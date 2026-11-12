@@ -421,41 +421,6 @@ const Tabac: React.FC = () => {
 
         <div className="border-t border-gray-200 my-10" />
 
-        <section>
-          <h2 className="text-xl font-semibold mb-4">Lire aussi</h2>
-          <ul className="space-y-3 text-gray-700">
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-tabac-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Combien de séances d&apos;hypnose pour arrêter de fumer ?
-              </a>{" "}
-              — Un guide pratique sur le déroulé des séances et les facteurs de réussite.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/sucre-hypnose-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Sucre et hypnose : et si votre cerveau pouvait enfin s&apos;en libérer ?
-              </a>{" "}
-              — La dépendance au sucre suit les mêmes circuits cérébraux que la dépendance au tabac.
-            </li>
-            <li>
-              →{" "}
-              <a
-                href="/blog/hypnose-volonte-lanvollon"
-                className="text-vertSapin underline hover:no-underline font-medium"
-              >
-                Hypnose et volonté : ce que dit la science
-              </a>{" "}
-              — Pourquoi la volonté seule ne suffit pas à sortir d&apos;une addiction, et comment l&apos;hypnose intervient.
-            </li>
-          </ul>
-        </section>
       </article>
     </>
   );

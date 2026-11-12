@@ -1,5 +1,9 @@
 "use client";
 
+import RelatedArticles from "@/components/RelatedArticles";
+import { relatedPosts } from "@/data/related-posts";
+import { usePathname } from "next/navigation";
+
 import { gotu } from "@/app/font";
 import ButtonRDV from "@/components/ButtonRDV";
 import Footer from "@/components/Footer";
@@ -15,6 +19,8 @@ export default function ArticleLayout({
 }: {
   children: React.ReactNode;
 }) {
+  const pathname = usePathname();
+  const slugs = relatedPosts[pathname.replace(/^\/blog\//, "")];
   const handleConversion = () => {
     push(["trackEvent", "button", "click", "RDV blog"]);
     window.location.href =
@@ -31,6 +37,7 @@ export default function ArticleLayout({
       </Link>
       <FixedRdvButton />
       {children}
+      {slugs && <RelatedArticles slugs={slugs} />}
       <div className="mx-6 mb-12 max-w-sm px-2 py-5 bg-white border border-gray-200 rounded-3xl shadow-md transition-shadow hover:shadow-xl sm:mx-auto group">
         <div className="flex flex-col items-center text-center">
           <Image
