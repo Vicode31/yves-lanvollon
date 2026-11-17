@@ -1,5 +1,4 @@
-// Lectures associées choisies par proximité de sujet.
-// Conserver les liens existants et relier également les nouvelles publications.
+// Lectures complémentaires choisies par proximité de sujet.
 export const relatedPosts: Record<string, string[]> = {
   "sucre-hypnose-lanvollon": [
     "hypnose-tabac-lanvollon",
@@ -53,11 +52,13 @@ export const relatedPosts: Record<string, string[]> = {
   "hypnose-volonte-lanvollon": [
     "hypnose-definition-lanvollon",
     "crise-angoisse-hypnose-lanvollon",
-    "hypnose-spectacle-lanvollon"
+    "hypnose-spectacle-lanvollon",
+    "hypnose-cartesien-receptivite"
   ],
   "premiere-seance-hypnose-lanvollon": [
     "hypnose-definition-lanvollon",
-    "hypnose-volonte-lanvollon"
+    "hypnose-volonte-lanvollon",
+    "hypnose-cartesien-receptivite"
   ],
   "burn-out-et-si-lhypnose-aidait-la-ou-le-repos-ne-suffit-pas": [
     "hypnose-stress-lanvollon",
@@ -73,6 +74,10 @@ export const relatedPosts: Record<string, string[]> = {
   ],
   "peur-de-lechec-et-si-lhypnose-changeait-votre-rapport-a-lerreur": [
     "burn-out-et-si-lhypnose-aidait-la-ou-le-repos-ne-suffit-pas",
+    "lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit"
+  ],
+  "hypnose-cartesien-receptivite": [
+    "hypnose-volonte-lanvollon",
     "lacher-prise-pourquoi-cest-si-difficile-et-comment-lhypnose-agit"
   ]
 };

@@ -187,6 +187,17 @@ export const blogPosts = [
     "image": "/blog/premiere-seance-premier-echange.webp",
     "alt": "Yves Deniau écoute un visiteur au début d’une consultation, dans une scène illustrée."
   },
+  {
+    "id": 16,
+    "title": "Je suis trop cartésien pour l’hypnose : faut-il arrêter de réfléchir ?",
+    "description": "Vous analysez tout et doutez de votre réceptivité à l’hypnose ? Découvrez avec Yves Deniau à Lanvollon ce qui peut être exploré sans faire le vide.",
+    "image": "/blog/cartesien-yves-repond-aux-questions.webp",
+    "alt": "Yves Deniau échange avec une visiteuse assise face à lui.",
+    "readTime": "3 min de lecture",
+    "url": "/hypnose-cartesien-receptivite",
+    "date": "17 novembre 2026",
+    "publishedAt": "2026-11-17"
+  },
 ];
 
 export function getPost(slug: string) {

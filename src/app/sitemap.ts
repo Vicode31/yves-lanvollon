@@ -6,6 +6,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // Articles disponibles dans src/app/blog/(articles).
   const posts = [
+    { slug: "hypnose-cartesien-receptivite", lastModified: "2026-11-17" },
     { slug: "premiere-seance-hypnose-lanvollon", lastModified: "2026-11-12" },
     { slug: "hypnose-definition-lanvollon", lastModified: "2024-01-27" },
     { slug: "hypnose-volonte-lanvollon", lastModified: "2024-03-03" },
