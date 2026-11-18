@@ -1,12 +1,12 @@
-import { Gotu, Roboto_Flex } from "next/font/google";
+import localFont from "next/font/local";
 
-export const gotu = Gotu({
-  subsets: ["latin"],
+export const gotu = localFont({
+  src: "./fonts/Gotu-Latin.woff2",
   display: "swap",
   weight: "400",
 });
-export const roboto_flex = Roboto_Flex({
-  subsets: ["latin"],
+export const roboto_flex = localFont({
+  src: "./fonts/RobotoFlex-Latin.woff2",
   display: "swap",
-  weight: ["300", "400", "700"],
+  weight: "300 700",
 });
